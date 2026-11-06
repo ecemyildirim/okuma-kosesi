@@ -1,0 +1,657 @@
+[
+ {
+  "id": "kar",
+  "title": "Kar Düştüğü Gece",
+  "kicker": "SARIKAMIŞ",
+  "author": "Okuma Köşesi özel",
+  "status": "Devam ediyor",
+  "tags": [
+   "Zor Zamanlarda Aşk",
+   "Aile Sırrı",
+   "Kars",
+   "Asker",
+   "Mutlu Son"
+  ],
+  "blurb": [
+   "Defne yirmi dokuz yaşında, İstanbul'da bir yurtta büyümüş genç bir öğretmendir. Kimsesi yoktur; elinde annesinden kalan tek şey, üzerinde Kars'ta bir adres yazan, hiç açılmamış eski bir mektuptur. İlk tayini Sarıkamış'ın karlı bir köyüne çıktığında bunun tesadüf olmadığına inanır.",
+   "Kerem Aslanbey ise bölgenin en köklü ailesinin büyük oğludur. Kardeşini kaybettiği operasyondan sonra yüzbaşılığı bırakıp memleketine dönmüş, kimseye gülmeyen, kimseye hesap vermeyen sert bir adamdır.",
+   "Yolları, Sarıkamış ormanında yolu kapatan bir kar fırtınasının ortasında kesişir. Defne onu kurtarıcısı sanır, Kerem ise onu başına bela olacak bir yabancı.",
+   "Ama Aslanbey konağının kapısından ilk adımını attığı an, yaşlı Hüsnü Ağa'nın elindeki çay bardağı yere düşer. Çünkü Defne'nin yüzü, otuz yıl önce o konaktan bir gece ansızın kaybolan bir kadının yüzüdür...",
+   "Defne aradığı ailesini bulmuş olabilir. Ama o aile, onun hiç bulunmamasını isteyen bir sırrı da saklamaktadır. Ve Kerem, bu sırrın tam ortasındadır."
+  ],
+  "snow": "<circle cx=\"82\" cy=\"38\" r=\"1.6\"/><circle cx=\"166\" cy=\"12\" r=\"0.6\"/><circle cx=\"137\" cy=\"24\" r=\"1.2\"/><circle cx=\"149\" cy=\"14\" r=\"0.9\"/><circle cx=\"9\" cy=\"22\" r=\"1.6\"/><circle cx=\"107\" cy=\"17\" r=\"0.9\"/><circle cx=\"23\" cy=\"141\" r=\"1.6\"/><circle cx=\"15\" cy=\"211\" r=\"0.6\"/><circle cx=\"57\" cy=\"161\" r=\"0.6\"/><circle cx=\"147\" cy=\"149\" r=\"1.6\"/><circle cx=\"12\" cy=\"56\" r=\"0.6\"/><circle cx=\"142\" cy=\"219\" r=\"0.9\"/><circle cx=\"74\" cy=\"107\" r=\"0.9\"/><circle cx=\"138\" cy=\"30\" r=\"1.2\"/><circle cx=\"143\" cy=\"208\" r=\"0.9\"/><circle cx=\"26\" cy=\"148\" r=\"0.9\"/><circle cx=\"95\" cy=\"24\" r=\"0.6\"/><circle cx=\"144\" cy=\"15\" r=\"0.9\"/><circle cx=\"127\" cy=\"174\" r=\"1.6\"/><circle cx=\"198\" cy=\"80\" r=\"1.6\"/><circle cx=\"149\" cy=\"236\" r=\"1.6\"/><circle cx=\"92\" cy=\"76\" r=\"0.9\"/><circle cx=\"46\" cy=\"178\" r=\"0.9\"/><circle cx=\"20\" cy=\"147\" r=\"1.2\"/><circle cx=\"134\" cy=\"126\" r=\"1.2\"/><circle cx=\"186\" cy=\"114\" r=\"1.2\"/><circle cx=\"155\" cy=\"18\" r=\"0.6\"/><circle cx=\"131\" cy=\"107\" r=\"0.9\"/><circle cx=\"193\" cy=\"87\" r=\"0.9\"/><circle cx=\"125\" cy=\"107\" r=\"0.6\"/><circle cx=\"171\" cy=\"19\" r=\"1.2\"/><circle cx=\"87\" cy=\"177\" r=\"1.2\"/><circle cx=\"152\" cy=\"127\" r=\"1.6\"/><circle cx=\"17\" cy=\"215\" r=\"0.6\"/><circle cx=\"69\" cy=\"121\" r=\"0.6\"/><circle cx=\"15\" cy=\"187\" r=\"1.2\"/><circle cx=\"165\" cy=\"147\" r=\"1.6\"/><circle cx=\"72\" cy=\"183\" r=\"1.6\"/><circle cx=\"171\" cy=\"88\" r=\"0.6\"/><circle cx=\"118\" cy=\"90\" r=\"0.9\"/><circle cx=\"156\" cy=\"29\" r=\"1.6\"/><circle cx=\"15\" cy=\"55\" r=\"1.2\"/><circle cx=\"33\" cy=\"189\" r=\"0.9\"/><circle cx=\"101\" cy=\"100\" r=\"1.6\"/><circle cx=\"20\" cy=\"42\" r=\"1.6\"/><circle cx=\"102\" cy=\"140\" r=\"1.2\"/><circle cx=\"35\" cy=\"209\" r=\"1.6\"/><circle cx=\"140\" cy=\"71\" r=\"1.6\"/><circle cx=\"91\" cy=\"174\" r=\"1.6\"/><circle cx=\"59\" cy=\"38\" r=\"0.6\"/><circle cx=\"45\" cy=\"38\" r=\"0.9\"/><circle cx=\"168\" cy=\"59\" r=\"0.6\"/><circle cx=\"124\" cy=\"212\" r=\"0.9\"/><circle cx=\"67\" cy=\"72\" r=\"0.6\"/><circle cx=\"37\" cy=\"107\" r=\"1.2\"/><circle cx=\"156\" cy=\"144\" r=\"1.2\"/><circle cx=\"32\" cy=\"176\" r=\"0.6\"/><circle cx=\"116\" cy=\"230\" r=\"1.6\"/><circle cx=\"101\" cy=\"102\" r=\"1.6\"/><circle cx=\"26\" cy=\"123\" r=\"1.6\"/><circle cx=\"15\" cy=\"48\" r=\"0.6\"/><circle cx=\"53\" cy=\"112\" r=\"0.9\"/><circle cx=\"28\" cy=\"87\" r=\"0.6\"/><circle cx=\"26\" cy=\"0\" r=\"0.9\"/><circle cx=\"137\" cy=\"25\" r=\"1.2\"/><circle cx=\"157\" cy=\"6\" r=\"0.6\"/><circle cx=\"53\" cy=\"157\" r=\"1.6\"/><circle cx=\"38\" cy=\"162\" r=\"1.2\"/><circle cx=\"88\" cy=\"154\" r=\"1.2\"/><circle cx=\"121\" cy=\"31\" r=\"0.6\"/>",
+  "chapters": [
+   {
+    "title": "Fırtına",
+    "body": [
+     {
+      "t": "pov",
+      "s": "**DEFNE'den**"
+     },
+     {
+      "t": "p",
+      "s": "Otobüs, Sarıkamış ormanının ortasında son bir kez sarsıldı ve durdu."
+     },
+     {
+      "t": "p",
+      "s": "Motorun sesi kesildiğinde içeriye öyle bir sessizlik doldu ki, dışarıda uğuldayan rüzgarı ilk defa duydum. Camın ötesi bembeyazdı. Ne yol vardı ne ağaç. Sadece kar, durmadan ve hırsla yağan kar."
+     },
+     {
+      "t": "p",
+      "s": "\"Yol kapandı,\" dedi şoför, direksiyona yaslanarak. \"Bu kardan çıkamayız. Sabahı bekleyeceğiz.\""
+     },
+     {
+      "t": "p",
+      "s": "Arka sıradan bir bebek ağlamaya başladı. Yanımdaki yaşlı teyze dualar mırıldanıyordu. Ben ise montumun iç cebine, kalbimin tam üstüne elimi bastırdım. Mektup oradaydı. Hep oradaydı."
+     },
+     {
+      "t": "p",
+      "s": "Yirmi dokuz yıldır, annemden geriye kalan tek şey."
+     },
+     {
+      "t": "p",
+      "s": "Zarfın üzerindeki yazıyı ezbere biliyordum, ama yine de çıkarıp bakmak istedim. Yapmadım. Yurtta büyüyen çocuklar bir şeyi erken öğrenir: Sahip olduğun tek şeyi herkesin önünde çıkarmazsın."
+     },
+     {
+      "t": "p",
+      "s": "\"Kızım, sen nereye gidiyorsun böyle tek başına?\" diye sordu teyze."
+     },
+     {
+      "t": "p",
+      "s": "\"Yeşiltepe köyüne. Öğretmenim. İlk tayinim.\""
+     },
+     {
+      "t": "p",
+      "s": "Teyze bana, başına gelecekleri bilen birinin bakışıyla baktı. \"Allah yardımcın olsun. Oranın kışı insanı yutar.\""
+     },
+     {
+      "t": "p",
+      "s": "Tam bir şey diyecektim ki, camdan gözlerimi alan bir ışık bütün otobüsü doldurdu."
+     },
+     {
+      "t": "brk"
+     },
+     {
+      "t": "p",
+      "s": "Farları karla örtülü, kocaman siyah bir arazi aracıydı. Otobüsün önüne yanaştı, kapısı açıldı ve fırtınanın içinden bir adam indi."
+     },
+     {
+      "t": "p",
+      "s": "Uzundu. İlk fark ettiğim buydu. İkincisi, karın onu hiç rahatsız etmiyormuş gibi yürümesiydi. Sanki fırtına ona değil, o fırtınaya meydan okuyordu."
+     },
+     {
+      "t": "p",
+      "s": "Otobüsün kapısı açıldığında içeri buz gibi bir rüzgar doldu. Adam basamakları çıktı, başındaki karı tek hareketle silkeledi. Koyu, kısa kesilmiş saçlar. Sert bir çene, kısa bir sakal. Ve gözler... Karın ortasında bile soğuk duran, koyu kahve gözler."
+     },
+     {
+      "t": "p",
+      "s": "\"Zeki Abi,\" dedi şoföre. Sesi alçaktı ama otobüsteki herkes sustu. \"Telsizden duydum. Sabaha kadar burada kalamazsınız, sıcaklık eksi yirmi beşe düşecek.\""
+     },
+     {
+      "t": "p",
+      "s": "\"Kerem Bey, Allah razı olsun. Ne yapalım?\""
+     },
+     {
+      "t": "p",
+      "s": "\"Belediyenin kepçesi bir saate gelir. Yaşlıları ve çocukları ben alıyorum, ön köye bırakacağım.\""
+     },
+     {
+      "t": "p",
+      "s": "*Kerem Bey.* Herkes ona öyle baktı, sanki bu ad her şeyi açıklıyormuş gibi."
+     },
+     {
+      "t": "p",
+      "s": "Yanımdaki teyzeyi, bebekli genç kadını ve iki çocuğu tek tek indirdi. Teyzenin koluna girerken o sert yüzünde bir an, belki bir saniyelik bir yumuşama gördüm. Sonra kayboldu."
+     },
+     {
+      "t": "p",
+      "s": "Ayağa kalktım. Ne yaptığımı düşünmeden."
+     },
+     {
+      "t": "p",
+      "s": "\"Ben de gelebilir miyim?\""
+     },
+     {
+      "t": "p",
+      "s": "Kapıda durdu, döndü. Bana ilk defa baktı. Yukarıdan aşağı — ince montuma, eldivensiz ellerime, ayaklarımdaki İstanbul botlarına."
+     },
+     {
+      "t": "p",
+      "s": "\"Sen yaşlı mısın, çocuk mu?\""
+     },
+     {
+      "t": "p",
+      "s": "\"Yeşiltepe'ye gidiyorum. Öğretmenim. Yarın sabah okulda olmam lazım.\""
+     },
+     {
+      "t": "p",
+      "s": "Kaşları bir milim kalktı. \"Öğretmen. Ocak ayında. Yeşiltepe'ye.\" Sanki her kelime ayrı bir şakaydı. \"Yeşiltepe yolu üç gün açılmaz.\""
+     },
+     {
+      "t": "p",
+      "s": "\"O zaman en azından ön köye kadar.\""
+     },
+     {
+      "t": "p",
+      "s": "\"Arabada yer yok.\""
+     },
+     {
+      "t": "p",
+      "s": "\"Ben az yer kaplarım.\""
+     },
+     {
+      "t": "p",
+      "s": "Otobüsten birinin kıkırdadığını duydum. Kerem Bey'in çenesi kasıldı. Bir an beni orada bırakıp gideceğini sandım. Sonra derin bir nefes aldı, sanki benimle değil sabrıyla pazarlık ediyormuş gibi."
+     },
+     {
+      "t": "p",
+      "s": "\"Öne otur. Ve konuşma.\""
+     },
+     {
+      "t": "brk"
+     },
+     {
+      "t": "p",
+      "s": "Konuşmamak, hayatımda yaptığım en zor şeylerden biriydi."
+     },
+     {
+      "t": "p",
+      "s": "Araç karın içinde ağır ağır ilerliyordu. Arkada teyze uyuyakalmış, bebek sonunda susmuştu. Kalorifer yüzlerimize sıcak üflüyordu ama ben hala titriyordum."
+     },
+     {
+      "t": "p",
+      "s": "Gözünün ucuyla baktığını fark ettim. Sonra hiçbir şey demeden torpidodan bir çift kalın yün eldiven çıkarıp kucağıma attı."
+     },
+     {
+      "t": "p",
+      "s": "\"Teşekkür ederim.\""
+     },
+     {
+      "t": "p",
+      "s": "\"Konuşma dedim.\""
+     },
+     {
+      "t": "p",
+      "s": "\"Teşekkür etmek konuşmak sayılmaz.\""
+     },
+     {
+      "t": "p",
+      "s": "Yanıt vermedi. Ama dudak köşesinin kıpırdadığını gördüm. Gördüğüme yemin edebilirim."
+     },
+     {
+      "t": "p",
+      "s": "\"İstanbul'da insanlar en azından adlarını söyler,\" dedim, eldivenleri giyerken."
+     },
+     {
+      "t": "p",
+      "s": "\"Burası İstanbul değil.\""
+     },
+     {
+      "t": "p",
+      "s": "\"Fark ettim. İstanbul'da kimse bana 'yaşlı mısın, çocuk mu' diye sormaz.\""
+     },
+     {
+      "t": "p",
+      "s": "Bu sefer bana döndü. Yol çizgisinden gelen loş ışıkta yüzü daha da sert görünüyordu."
+     },
+     {
+      "t": "p",
+      "s": "\"Kerem.\""
+     },
+     {
+      "t": "p",
+      "s": "\"Defne.\""
+     },
+     {
+      "t": "p",
+      "s": "\"Biliyorum.\""
+     },
+     {
+      "t": "p",
+      "s": "Donup kaldım. \"Nereden?\""
+     },
+     {
+      "t": "p",
+      "s": "\"Yeşiltepe'ye üç yıldır öğretmen gelmiyor. Bu yıl biri geliyor dediler. Adı Defne, İstanbul'dan.\" Yola döndü. \"Bir hafta dayanacaksınız diye iddiaya girdiler.\""
+     },
+     {
+      "t": "p",
+      "s": "\"Sen kaç gün dedin?\""
+     },
+     {
+      "t": "p",
+      "s": "\"İki.\""
+     },
+     {
+      "t": "p",
+      "s": "Tam ağzımı açıyordum ki araç buzda kaydı."
+     },
+     {
+      "t": "p",
+      "s": "Her şey bir anda oldu. Arka taraf savruldu, dünya yana yatıp düzeldi. Ben öne doğru fırladım — ve bir kol, demir bir bariyer gibi önüme uzandı. Kerem tek eliyle direksiyonu çevirdi, öbürüyle beni yerimde tuttu. Araç sarsılarak durdu."
+     },
+     {
+      "t": "p",
+      "s": "Nefes nefese kalmıştım. Kolu hala göğsümün önündeydi. Arkada teyze uyanmış, \"Ya Rabbim\" diye söylenmeye başlamıştı."
+     },
+     {
+      "t": "p",
+      "s": "\"İyi misin?\" diye sordu. Sesi ilk defa farklıydı. Alçak, sıkı."
+     },
+     {
+      "t": "p",
+      "s": "\"İyiyim.\""
+     },
+     {
+      "t": "p",
+      "s": "Kolunu çekti. Ama çekmeden önce bir saniye, belki iki saniye bekledi. Ya da ben öyle sandım."
+     },
+     {
+      "t": "brk"
+     },
+     {
+      "t": "p",
+      "s": "Ön köye vardığımızda teyzeyi, genç kadını ve çocukları muhtarın evine bıraktı. Ben de inecektim. Muhtarın karısı kapıda beni bekliyordu. Ama Kerem aracın kapısını kapattı."
+     },
+     {
+      "t": "p",
+      "s": "\"Muhtarın evinde yer kalmadı. Otobüsteki herkes buraya gelecek.\""
+     },
+     {
+      "t": "p",
+      "s": "\"O zaman nerede kalacağım?\""
+     },
+     {
+      "t": "p",
+      "s": "Araca bindi, kontağı çevirdi. Uzun bir an hiçbir şey demedi. Sonra, bunu söylemek ona dünyanın en zor şeyiymiş gibi:"
+     },
+     {
+      "t": "p",
+      "s": "\"Bize. Bu gece annemin misafiri olursun. Sabah yol açılınca seni ilk ben kendim götürürüm.\""
+     },
+     {
+      "t": "p",
+      "s": "\"Bize neresi?\""
+     },
+     {
+      "t": "p",
+      "s": "\"Aslanbey Konağı.\""
+     },
+     {
+      "t": "p",
+      "s": "Kalbim durdu."
+     },
+     {
+      "t": "p",
+      "s": "Gerçekten durdu. Bir an nefes alamadım. Elim, kendi iradem dışında, montumun iç cebine gitti. Zarfın kenarını parmaklarımda hissettim."
+     },
+     {
+      "t": "p",
+      "s": "Yirmi dokuz yıldır ezbere bildiğim adres."
+     },
+     {
+      "t": "p",
+      "s": "*Hüsnü Aslanbey'e. Aslanbey Konağı, Sarıkamış.*"
+     },
+     {
+      "t": "p",
+      "s": "\"Bir sorun mu var?\" diye sordu Kerem, beni süzüp."
+     },
+     {
+      "t": "p",
+      "s": "\"Hayır,\" dedim. Sesim kendi kulağıma bile yabancı geldi. \"Hiçbir sorun yok.\""
+     },
+     {
+      "t": "brk"
+     },
+     {
+      "t": "p",
+      "s": "Konak, karın içinden bir kale gibi yükseliyordu. Kesme taştan, iki katlı, pencerelerinde sarı ışıklar yanan, eski ve heybetli bir ev. Avluda iki köpek havladı, Kerem'in tek bir ıslığıyla sustular."
+     },
+     {
+      "t": "p",
+      "s": "Kapıyı orta yaşlı, başı örtülü, yüzü iyilik dolu bir kadın açtı. \"Kerem, oğlum! Merak ettik. Kim bu kız?\""
+     },
+     {
+      "t": "p",
+      "s": "\"Yeşiltepe'nin yeni öğretmeni, anne. Yolda kaldı.\""
+     },
+     {
+      "t": "p",
+      "s": "\"Gel kızım, gel, donup kalmışsın.\""
+     },
+     {
+      "t": "p",
+      "s": "Beni içeri çekti. Sıcaklık yüzüme bir tokat gibi çarptı. Geniş bir sofa, duvarlarda eski halılar, köşede yanan kocaman bir soba."
+     },
+     {
+      "t": "p",
+      "s": "Ve sobaya yakın, minderli bir sedirde oturan yaşlı bir adam."
+     },
+     {
+      "t": "p",
+      "s": "Beyaz saçlı, beyaz sakallı, elinde kırmızı bir tespih. Önündeki küçük masada ince belli bir çay bardağı. Başını kaldırmadan, \"Hoş geldin kızım,\" dedi. Sesinde bu evin bütün ağırlığı vardı."
+     },
+     {
+      "t": "p",
+      "s": "\"Hoş bulduk,\" dedim."
+     },
+     {
+      "t": "p",
+      "s": "Kerem'in annesi bereyi başımdan çekip aldı, \"Islanmış bu, kurusun,\" diye. Saçlarım omuzlarıma döküldü."
+     },
+     {
+      "t": "p",
+      "s": "Ve yaşlı adam başını kaldırdı."
+     },
+     {
+      "t": "p",
+      "s": "Bana baktı. Bir saniye. İki saniye. Elindeki tespih durdu."
+     },
+     {
+      "t": "p",
+      "s": "Sonra yüzü bembeyaz oldu."
+     },
+     {
+      "t": "p",
+      "s": "Uzandığı çay bardağı parmaklarının arasından kaydı, taş zemine çarpıp bin parçaya ayrıldı. Sesi bütün sofada yankılandı. Kerem'in annesi \"Baba!\" diye koştu. Kerem bir adımda yanıma geldi."
+     },
+     {
+      "t": "p",
+      "s": "Ama yaşlı adamın gözleri hiç benden ayrılmadı."
+     },
+     {
+      "t": "p",
+      "s": "Dudakları titredi. Ve bir isim fısıldadı. Otuz yıldır bu evde kimsenin ağzına alamadığı bir isim olduğunu sonradan öğrenecektim."
+     },
+     {
+      "t": "p",
+      "s": "\"Nermin...?\""
+     },
+     {
+      "t": "p",
+      "s": "Kanım dondu."
+     },
+     {
+      "t": "p",
+      "s": "Nermin, annemin adıydı."
+     }
+    ]
+   },
+   {
+    "title": "Mühürlü Mektup",
+    "body": [
+     {
+      "t": "pov",
+      "s": "**DEFNE'den**"
+     },
+     {
+      "t": "p",
+      "s": "Sofada kimse kımıldamıyordu."
+     },
+     {
+      "t": "p",
+      "s": "Sadece sobadaki odunun çıtırtısı ve yerdeki cam kırıklarının üzerine damlayan çayın sesi."
+     },
+     {
+      "t": "p",
+      "s": "Hüsnü Ağa hala bana bakıyordu. Ama artık bana değil, benim arkamda bir yerde duran birine bakıyormuş gibiydi. Otuz yıl öncesine."
+     },
+     {
+      "t": "p",
+      "s": "\"Baba, iyi misin?\" Kerem'in annesi yaşlı adamın elini tuttu. \"Gülsüm'üm ben, bak bana.\""
+     },
+     {
+      "t": "p",
+      "s": "\"Nermin...\" dedi Hüsnü Ağa bir kez daha. Bu sefer daha kısık, daha kırık. \"Nermin'im döndü.\""
+     },
+     {
+      "t": "p",
+      "s": "\"Dede.\" Kerem yanına çöktü, dedesinin omzunu kavradı. Sesi, otobüste duyduğum o emir veren sesin tam tersiydi. Yumuşak, sabırlı. \"Bu Nermin değil. Bu Defne. Yeşiltepe'nin öğretmeni. Yolda kaldı, bu gece misafirimiz.\""
+     },
+     {
+      "t": "p",
+      "s": "Yaşlı adam gözlerini bir kez kapatıp açtı. Sanki uyanıyormuş gibi. Sonra elini yüzüne götürdü ve birden çok, çok yaşlı göründü."
+     },
+     {
+      "t": "p",
+      "s": "\"Yoruldum,\" dedi. \"Odama götürün beni.\""
+     },
+     {
+      "t": "p",
+      "s": "Kerem ve annesi onu koltuklarından tutup kaldırdılar. Koridorun karanlığına doğru yürürken Hüsnü Ağa bir an durdu ve omzunun üzerinden geriye, bana baktı."
+     },
+     {
+      "t": "p",
+      "s": "O bakışı hiç unutmayacağım. Hem korku vardı içinde, hem de bir çeşit umut."
+     },
+     {
+      "t": "brk"
+     },
+     {
+      "t": "p",
+      "s": "Bana misafir odasını Gülsüm Hanım gösterdi. İçeride bir karyola, üzerinde el işi bir yorgan, pencerenin önünde küçük bir soba. Biri benden önce yakmıştı."
+     },
+     {
+      "t": "p",
+      "s": "\"Babamı kusura bakma kızım,\" dedi kapıda durup. \"Yaşlandı. Bazen eski günlere gider.\""
+     },
+     {
+      "t": "p",
+      "s": "\"Nermin kim, Gülsüm Hanım?\""
+     },
+     {
+      "t": "p",
+      "s": "Soruyu sorar sormaz pişman oldum. Kadının yüzündeki iyilik bir anda bir perdeyle örtüldü."
+     },
+     {
+      "t": "p",
+      "s": "\"Eskiden bu evde büyümüş bir kızdı. Kâhyamızın kızı. Babam onu kendi kızı gibi severdi.\" Bir an sustu. \"Bir gece gitti. Bir daha da dönmedi.\""
+     },
+     {
+      "t": "p",
+      "s": "\"Neden gitti?\""
+     },
+     {
+      "t": "p",
+      "s": "\"Bu evde o konu konuşulmaz kızım.\" Kapıyı çekerken yumuşak ama kesin bir sesle ekledi: \"Sen de konuşma. Babamın kalbi kaldırmaz.\""
+     },
+     {
+      "t": "p",
+      "s": "Kapı kapandı."
+     },
+     {
+      "t": "p",
+      "s": "Yatağın kenarına oturdum ve ellerimin titrediğini o zaman fark ettim. Montumun iç cebinden zarfı çıkardım."
+     },
+     {
+      "t": "p",
+      "s": "Sararmış, köşeleri yıpranmış bir zarf. Kağıdın üzerinde annemin el yazısı: *Hüsnü Aslanbey'e. Aslanbey Konağı, Sarıkamış.* Ve arkasında, kırmızı mumla mühürlenmiş kapağın tam altında, daha küçük harflerle bir not:"
+     },
+     {
+      "t": "p",
+      "s": "*Bunu ondan başka kimse açmasın. Kızım dahil.*"
+     },
+     {
+      "t": "p",
+      "s": "Yirmi dokuz yıl boyunca bu mührü bozmamak için kendimle kaç kez savaştım bilmiyorum. Yurtta ateşler içinde yattığım geceler. Üniversite sınavını kazandığım gün. Mezuniyetimde, herkesin ailesi karşılarındayken benim kimsemin olmadığı o an."
+     },
+     {
+      "t": "p",
+      "s": "Hiç açmadım. Annemin benden istediği tek şeydi."
+     },
+     {
+      "t": "p",
+      "s": "Ve şimdi, mektubun sahibi bu evde, birkaç oda ötede yatıyordu."
+     },
+     {
+      "t": "brk"
+     },
+     {
+      "t": "p",
+      "s": "Kapı çalındığında zarfı hızla yastığın altına soktum."
+     },
+     {
+      "t": "p",
+      "s": "\"Gir.\""
+     },
+     {
+      "t": "p",
+      "s": "Kerem'di. Elinde bir tepsi vardı: bir bardak çay, bir tabak peynir ve sıcak ekmek. Ve kolunun üzerinde, kurusun diye alınan berem."
+     },
+     {
+      "t": "p",
+      "s": "Tepsiyi pencerenin önündeki masaya koydu. Bereyi yatağın ayak ucuna bıraktı. Sonra çıkmadı. Kapıya yaslanıp kollarını göğsünde kavuşturdu."
+     },
+     {
+      "t": "p",
+      "s": "\"Annem yemek yemediğini söyledi.\""
+     },
+     {
+      "t": "p",
+      "s": "\"Teşekkür ederim.\""
+     },
+     {
+      "t": "p",
+      "s": "\"Teşekkür etme.\" Bir adım yaklaştı. \"Bana bir şey anlat.\""
+     },
+     {
+      "t": "p",
+      "s": "\"Ne gibi?\""
+     },
+     {
+      "t": "p",
+      "s": "\"Dedem otuz yıldır o adı ağzına almadı. Otuz yıl, Defne. Ben doğduğumdan beri bu evde o isim yasak. Ve sen kapıdan girdiğin an...\" Durdu. Gece karanlığı gibi gözlerini yüzüme dikti. \"Nermin'i nereden tanıyorsun?\""
+     },
+     {
+      "t": "p",
+      "s": "\"Tanımıyorum.\""
+     },
+     {
+      "t": "p",
+      "s": "Yalan, düşündüğümden kolay çıktı ağzımdan. Ama Kerem'in yüzünde bir kas bile oynamadı."
+     },
+     {
+      "t": "p",
+      "s": "\"Yalan söylüyorsun.\""
+     },
+     {
+      "t": "p",
+      "s": "\"Nereden biliyorsun?\""
+     },
+     {
+      "t": "p",
+      "s": "\"Sekiz yıl askerlik yaptım. Yalan söyleyen insanı gözlerinden tanırım.\" Bir adım daha yaklaştı. Odada birden yer kalmamış gibiydi. \"Ve senin gözlerin, konağın adını söylediğimde değişti. Arabada. Sanki bu adı zaten biliyormuşsun gibi.\""
+     },
+     {
+      "t": "p",
+      "s": "Nefesimi tuttum. Yastığın altındaki zarf, bir anda üzerimde bir yangın gibi yanmaya başladı."
+     },
+     {
+      "t": "p",
+      "s": "\"Ben bir öğretmenim,\" dedim, sesimi sabit tutmaya çalışarak. \"Yolda kaldım. Sen beni buraya getirdin, ben istemedim. Yarın sabah yol açılınca da gideceğim. Bu kadar.\""
+     },
+     {
+      "t": "p",
+      "s": "Uzun bir sessizlik oldu. Kerem beni süzdü, sanki kafamdaki her düşünceyi okuyabilecekmiş gibi. Sonra geri çekildi."
+     },
+     {
+      "t": "p",
+      "s": "\"Dedem benim her şeyim,\" dedi alçak sesle. \"Babamı erken kaybettim. Kardeşimi... kardeşimi de kaybettim. Bana kalan o. Eğer bu evde onu üzecek bir şey yapıyorsan...\""
+     },
+     {
+      "t": "p",
+      "s": "Cümlenin sonunu getirmedi. Getirmesine gerek yoktu."
+     },
+     {
+      "t": "p",
+      "s": "Kapıyı açtı. Çıkmadan önce durdu, başını hafifçe çevirdi."
+     },
+     {
+      "t": "p",
+      "s": "\"Çayını sıcakken iç. Buranın gecesi soğuk olur.\""
+     },
+     {
+      "t": "p",
+      "s": "Ve gitti."
+     },
+     {
+      "t": "p",
+      "s": "Kapı kapandıktan sonra uzun süre kıpırdayamadım. Kalbim göğsümde kürek çekiyordu. Ama neden olduğunu, korkudan mı yoksa başka bir şeyden mi olduğunu kendime itiraf etmek istemedim."
+     },
+     {
+      "t": "brk"
+     },
+     {
+      "t": "p",
+      "s": "Gece yarısını geçmişti. Uyuyamadım."
+     },
+     {
+      "t": "p",
+      "s": "Soba sönmüş, oda soğumuştu. Bir bardak su almak için kalktım, ayaklarımın ucuna basarak koridora çıktım. Konak gece daha da büyük görünüyordu. Ahşap zemin her adımda gıcırdıyor, duvarlardaki eski fotoğraflar karanlıkta bana bakıyordu."
+     },
+     {
+      "t": "p",
+      "s": "Mutfağa yaklaştığımda bir ses duydum. Bir kadın sesi. Fısıltıyla ama öfkeyle konuşuyordu."
+     },
+     {
+      "t": "p",
+      "s": "Duvarın köşesinde durdum."
+     },
+     {
+      "t": "p",
+      "s": "Mutfaktaki loş ışıkta, telefonla konuşan, ellili yaşlarda, uzun boylu bir kadın gördüm. Saçları sıkıca toplanmış, sırtında koyu renk bir şal. Kim olduğunu bilmiyordum. Akşam sofada yoktu."
+     },
+     {
+      "t": "p",
+      "s": "\"...çay bardağını düşürdü diyorum sana! Yüzüne baktı ve 'Nermin' dedi.\" Bir an dinledi. \"Hayır, ben görmedim, Gülsüm anlattı. Ama sabah ilk iş göreceğim.\""
+     },
+     {
+      "t": "p",
+      "s": "Nefes almayı unuttum."
+     },
+     {
+      "t": "p",
+      "s": "\"Bana o çocuk öldü demiştin,\" dedi kadın, sesi titreyerek. \"Otuz yıl önce, o gece. Bebek de, annesi de, bir daha bu kapıyı çalmayacak demiştin! Ben sana güvendim!\""
+     },
+     {
+      "t": "p",
+      "s": "Tüm vücudum buz kesti."
+     },
+     {
+      "t": "p",
+      "s": "Kadın telefonu kapattı. Bir an ellerini tezgaha dayayıp başını eğdi. Sonra döndü."
+     },
+     {
+      "t": "p",
+      "s": "Ben çoktan geri çekilmiştim. Ayaklarımın ucuna basarak, kalbim ağzımda, koridoru geçtim ve odama sığındım. Kapıyı arkamdan sessizce kapattım, sırtımı ona dayadım."
+     },
+     {
+      "t": "p",
+      "s": "*Bana o çocuk öldü demiştin.*"
+     },
+     {
+      "t": "p",
+      "s": "Benden bahsediyordu. Benden."
+     },
+     {
+      "t": "p",
+      "s": "Birisi, otuz yıl önce, benim öldüğümü söylemişti."
+     },
+     {
+      "t": "p",
+      "s": "Titreyen ellerimle yatağa gittim. Bu gece, bu evde, sahip olduğum tek şeyin yanımda olduğunu bilmeye ihtiyacım vardı. Yastığı kaldırdım."
+     },
+     {
+      "t": "p",
+      "s": "Yastığın altı bomboştu."
+     },
+     {
+      "t": "p",
+      "s": "Mektup yoktu."
+     }
+    ]
+   }
+  ]
+ }
+]
