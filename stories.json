@@ -19,7 +19,8 @@
    "Ama Aslanbey konağının kapısından ilk adımını attığı an, yaşlı Hüsnü Ağa'nın elindeki çay bardağı yere düşer. Çünkü Defne'nin yüzü, otuz yıl önce o konaktan bir gece ansızın kaybolan bir kadının yüzüdür...",
    "Defne aradığı ailesini bulmuş olabilir. Ama o aile, onun hiç bulunmamasını isteyen bir sırrı da saklamaktadır. Ve Kerem, bu sırrın tam ortasındadır."
   ],
-  "snow": "<circle cx=\"82\" cy=\"38\" r=\"1.6\"/><circle cx=\"166\" cy=\"12\" r=\"0.6\"/><circle cx=\"137\" cy=\"24\" r=\"1.2\"/><circle cx=\"149\" cy=\"14\" r=\"0.9\"/><circle cx=\"9\" cy=\"22\" r=\"1.6\"/><circle cx=\"107\" cy=\"17\" r=\"0.9\"/><circle cx=\"23\" cy=\"141\" r=\"1.6\"/><circle cx=\"15\" cy=\"211\" r=\"0.6\"/><circle cx=\"57\" cy=\"161\" r=\"0.6\"/><circle cx=\"147\" cy=\"149\" r=\"1.6\"/><circle cx=\"12\" cy=\"56\" r=\"0.6\"/><circle cx=\"142\" cy=\"219\" r=\"0.9\"/><circle cx=\"74\" cy=\"107\" r=\"0.9\"/><circle cx=\"138\" cy=\"30\" r=\"1.2\"/><circle cx=\"143\" cy=\"208\" r=\"0.9\"/><circle cx=\"26\" cy=\"148\" r=\"0.9\"/><circle cx=\"95\" cy=\"24\" r=\"0.6\"/><circle cx=\"144\" cy=\"15\" r=\"0.9\"/><circle cx=\"127\" cy=\"174\" r=\"1.6\"/><circle cx=\"198\" cy=\"80\" r=\"1.6\"/><circle cx=\"149\" cy=\"236\" r=\"1.6\"/><circle cx=\"92\" cy=\"76\" r=\"0.9\"/><circle cx=\"46\" cy=\"178\" r=\"0.9\"/><circle cx=\"20\" cy=\"147\" r=\"1.2\"/><circle cx=\"134\" cy=\"126\" r=\"1.2\"/><circle cx=\"186\" cy=\"114\" r=\"1.2\"/><circle cx=\"155\" cy=\"18\" r=\"0.6\"/><circle cx=\"131\" cy=\"107\" r=\"0.9\"/><circle cx=\"193\" cy=\"87\" r=\"0.9\"/><circle cx=\"125\" cy=\"107\" r=\"0.6\"/><circle cx=\"171\" cy=\"19\" r=\"1.2\"/><circle cx=\"87\" cy=\"177\" r=\"1.2\"/><circle cx=\"152\" cy=\"127\" r=\"1.6\"/><circle cx=\"17\" cy=\"215\" r=\"0.6\"/><circle cx=\"69\" cy=\"121\" r=\"0.6\"/><circle cx=\"15\" cy=\"187\" r=\"1.2\"/><circle cx=\"165\" cy=\"147\" r=\"1.6\"/><circle cx=\"72\" cy=\"183\" r=\"1.6\"/><circle cx=\"171\" cy=\"88\" r=\"0.6\"/><circle cx=\"118\" cy=\"90\" r=\"0.9\"/><circle cx=\"156\" cy=\"29\" r=\"1.6\"/><circle cx=\"15\" cy=\"55\" r=\"1.2\"/><circle cx=\"33\" cy=\"189\" r=\"0.9\"/><circle cx=\"101\" cy=\"100\" r=\"1.6\"/><circle cx=\"20\" cy=\"42\" r=\"1.6\"/><circle cx=\"102\" cy=\"140\" r=\"1.2\"/><circle cx=\"35\" cy=\"209\" r=\"1.6\"/><circle cx=\"140\" cy=\"71\" r=\"1.6\"/><circle cx=\"91\" cy=\"174\" r=\"1.6\"/><circle cx=\"59\" cy=\"38\" r=\"0.6\"/><circle cx=\"45\" cy=\"38\" r=\"0.9\"/><circle cx=\"168\" cy=\"59\" r=\"0.6\"/><circle cx=\"124\" cy=\"212\" r=\"0.9\"/><circle cx=\"67\" cy=\"72\" r=\"0.6\"/><circle cx=\"37\" cy=\"107\" r=\"1.2\"/><circle cx=\"156\" cy=\"144\" r=\"1.2\"/><circle cx=\"32\" cy=\"176\" r=\"0.6\"/><circle cx=\"116\" cy=\"230\" r=\"1.6\"/><circle cx=\"101\" cy=\"102\" r=\"1.6\"/><circle cx=\"26\" cy=\"123\" r=\"1.6\"/><circle cx=\"15\" cy=\"48\" r=\"0.6\"/><circle cx=\"53\" cy=\"112\" r=\"0.9\"/><circle cx=\"28\" cy=\"87\" r=\"0.6\"/><circle cx=\"26\" cy=\"0\" r=\"0.9\"/><circle cx=\"137\" cy=\"25\" r=\"1.2\"/><circle cx=\"157\" cy=\"6\" r=\"0.6\"/><circle cx=\"53\" cy=\"157\" r=\"1.6\"/><circle cx=\"38\" cy=\"162\" r=\"1.2\"/><circle cx=\"88\" cy=\"154\" r=\"1.2\"/><circle cx=\"121\" cy=\"31\" r=\"0.6\"/>",
+  "bg": "linear-gradient(180deg,#1b2535 0%,#3b4a63 55%,#c9d3df 100%)",
+  "art": "<g fill=\"#fff\" opacity=\".85\"><circle cx=\"82\" cy=\"38\" r=\"1.6\"/><circle cx=\"166\" cy=\"12\" r=\"0.6\"/><circle cx=\"137\" cy=\"24\" r=\"1.2\"/><circle cx=\"149\" cy=\"14\" r=\"0.9\"/><circle cx=\"9\" cy=\"22\" r=\"1.6\"/><circle cx=\"107\" cy=\"17\" r=\"0.9\"/><circle cx=\"23\" cy=\"141\" r=\"1.6\"/><circle cx=\"15\" cy=\"211\" r=\"0.6\"/><circle cx=\"57\" cy=\"161\" r=\"0.6\"/><circle cx=\"147\" cy=\"149\" r=\"1.6\"/><circle cx=\"12\" cy=\"56\" r=\"0.6\"/><circle cx=\"142\" cy=\"219\" r=\"0.9\"/><circle cx=\"74\" cy=\"107\" r=\"0.9\"/><circle cx=\"138\" cy=\"30\" r=\"1.2\"/><circle cx=\"143\" cy=\"208\" r=\"0.9\"/><circle cx=\"26\" cy=\"148\" r=\"0.9\"/><circle cx=\"95\" cy=\"24\" r=\"0.6\"/><circle cx=\"144\" cy=\"15\" r=\"0.9\"/><circle cx=\"127\" cy=\"174\" r=\"1.6\"/><circle cx=\"198\" cy=\"80\" r=\"1.6\"/><circle cx=\"149\" cy=\"236\" r=\"1.6\"/><circle cx=\"92\" cy=\"76\" r=\"0.9\"/><circle cx=\"46\" cy=\"178\" r=\"0.9\"/><circle cx=\"20\" cy=\"147\" r=\"1.2\"/><circle cx=\"134\" cy=\"126\" r=\"1.2\"/><circle cx=\"186\" cy=\"114\" r=\"1.2\"/><circle cx=\"155\" cy=\"18\" r=\"0.6\"/><circle cx=\"131\" cy=\"107\" r=\"0.9\"/><circle cx=\"193\" cy=\"87\" r=\"0.9\"/><circle cx=\"125\" cy=\"107\" r=\"0.6\"/><circle cx=\"171\" cy=\"19\" r=\"1.2\"/><circle cx=\"87\" cy=\"177\" r=\"1.2\"/><circle cx=\"152\" cy=\"127\" r=\"1.6\"/><circle cx=\"17\" cy=\"215\" r=\"0.6\"/><circle cx=\"69\" cy=\"121\" r=\"0.6\"/><circle cx=\"15\" cy=\"187\" r=\"1.2\"/><circle cx=\"165\" cy=\"147\" r=\"1.6\"/><circle cx=\"72\" cy=\"183\" r=\"1.6\"/><circle cx=\"171\" cy=\"88\" r=\"0.6\"/><circle cx=\"118\" cy=\"90\" r=\"0.9\"/><circle cx=\"156\" cy=\"29\" r=\"1.6\"/><circle cx=\"15\" cy=\"55\" r=\"1.2\"/><circle cx=\"33\" cy=\"189\" r=\"0.9\"/><circle cx=\"101\" cy=\"100\" r=\"1.6\"/><circle cx=\"20\" cy=\"42\" r=\"1.6\"/><circle cx=\"102\" cy=\"140\" r=\"1.2\"/><circle cx=\"35\" cy=\"209\" r=\"1.6\"/><circle cx=\"140\" cy=\"71\" r=\"1.6\"/><circle cx=\"91\" cy=\"174\" r=\"1.6\"/><circle cx=\"59\" cy=\"38\" r=\"0.6\"/><circle cx=\"45\" cy=\"38\" r=\"0.9\"/><circle cx=\"168\" cy=\"59\" r=\"0.6\"/><circle cx=\"124\" cy=\"212\" r=\"0.9\"/><circle cx=\"67\" cy=\"72\" r=\"0.6\"/><circle cx=\"37\" cy=\"107\" r=\"1.2\"/><circle cx=\"156\" cy=\"144\" r=\"1.2\"/><circle cx=\"32\" cy=\"176\" r=\"0.6\"/><circle cx=\"116\" cy=\"230\" r=\"1.6\"/><circle cx=\"101\" cy=\"102\" r=\"1.6\"/><circle cx=\"26\" cy=\"123\" r=\"1.6\"/><circle cx=\"15\" cy=\"48\" r=\"0.6\"/><circle cx=\"53\" cy=\"112\" r=\"0.9\"/><circle cx=\"28\" cy=\"87\" r=\"0.6\"/><circle cx=\"26\" cy=\"0\" r=\"0.9\"/><circle cx=\"137\" cy=\"25\" r=\"1.2\"/><circle cx=\"157\" cy=\"6\" r=\"0.6\"/><circle cx=\"53\" cy=\"157\" r=\"1.6\"/><circle cx=\"38\" cy=\"162\" r=\"1.2\"/><circle cx=\"88\" cy=\"154\" r=\"1.2\"/><circle cx=\"121\" cy=\"31\" r=\"0.6\"/></g><path d=\"M0 230 L20 200 L28 212 L45 175 L60 205 L72 190 L90 160 L108 196 L120 182 L140 150 L158 192 L170 178 L188 200 L200 188 L200 300 L0 300Z\" fill=\"#0f1621\" opacity=\".85\"/><path d=\"M0 255 L25 225 L50 250 L80 215 L110 248 L140 222 L170 252 L200 230 L200 300 L0 300Z\" fill=\"#0a0f17\"/><rect x=\"132\" y=\"236\" width=\"22\" height=\"16\" fill=\"#0a0f17\"/><rect x=\"137\" y=\"240\" width=\"5\" height=\"5\" fill=\"#f2c46b\"/><rect x=\"145\" y=\"240\" width=\"5\" height=\"5\" fill=\"#f2c46b\"/>",
   "chapters": [
    {
     "title": "Fırtına",
@@ -1668,6 +1669,1940 @@
      {
       "t": "p",
       "s": "\"Annen diyor ki: 'Hatice Hanım'ın kapısını dışarıdan kilitleyen eli gördüm Ağam. Ve o el, şu an sizin sofranızda oturuyor.'\""
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "mardin",
+  "title": "Taş Konağın Gelini",
+  "kicker": "MARDİN",
+  "author": "Okuma Köşesi özel",
+  "status": "Devam ediyor",
+  "tags": [
+   "Kan Davası",
+   "Zorunlu Evlilik",
+   "Aile Sırrı",
+   "Mardin",
+   "Mutlu Son"
+  ],
+  "blurb": [
+   "Asya, İstanbul'da yaşayan genç bir restorasyon mimarıdır. İlk büyük işi için Mardin'e, iki yüz yıllık Demirkıran Konağı'nı kurtarmaya gelir.",
+   "Konağın sahibi Cihan Demirkıran ise kimsenin evine dokunmasını istemez. Sert, gururlu ve yalnız bir adamdır. İlk gün Asya'yı valiziyle birlikte yokuştan aşağı indirmekle tehdit eder.",
+   "Ama Asya konağın duvarında saklı bir fotoğraf bulduğunda her şey değişir. Fotoğraftaki gençlerden biri, kırk yıl önce bu avluda öldürülen Cihan'ın amcasıdır. Diğeri ise Asya'nın dedesi.",
+   "Kan davasını kapatmanın tek yolu bir nikâhtır. Kağıt üstünde bir evlilik, ayrı odalar ve bir söz: gerçeği bulana kadar.",
+   "Peki kırk yıl önce o avluda gerçekte ne oldu? Ve Asya'nın dedesini katil ilan eden kişi, hâlâ aynı sofrada mı oturuyor?"
+  ],
+  "bg": "linear-gradient(180deg,#5b2a1c 0%,#b8653a 50%,#f0b46a 100%)",
+  "art": "<circle cx=\"150\" cy=\"120\" r=\"26\" fill=\"#ffd28a\" opacity=\".55\"/><path d=\"M60 180 h14 v-22 a7 7 0 0 1 14 0 v22 h14 v12 h-42z\" fill=\"#6b3b25\"/><rect x=\"118\" y=\"150\" width=\"7\" height=\"40\" fill=\"#6b3b25\"/><path d=\"M114 150 h15 l-7.5 -10z\" fill=\"#6b3b25\"/><rect x=\"-10\" y=\"175\" width=\"33\" height=\"90\" fill=\"#5a3220\"/><path d=\"M-4 193 v-7 a3.5 3.5 0 0 1 7 0 v7z\" fill=\"#f4b860\" opacity=\".9\"/><path d=\"M10 193 v-7 a3.5 3.5 0 0 1 7 0 v7z\" fill=\"#f4b860\" opacity=\".9\"/><rect x=\"24\" y=\"175\" width=\"33\" height=\"90\" fill=\"#5a3220\"/><path d=\"M30 193 v-7 a3.5 3.5 0 0 1 7 0 v7z\" fill=\"#f4b860\" opacity=\".9\"/><rect x=\"58\" y=\"171\" width=\"28\" height=\"94\" fill=\"#5a3220\"/><path d=\"M64 189 v-7 a3.5 3.5 0 0 1 7 0 v7z\" fill=\"#f4b860\" opacity=\".9\"/><path d=\"M78 189 v-7 a3.5 3.5 0 0 1 7 0 v7z\" fill=\"#f4b860\" opacity=\".9\"/><rect x=\"87\" y=\"174\" width=\"36\" height=\"91\" fill=\"#5a3220\"/><path d=\"M93 192 v-7 a3.5 3.5 0 0 1 7 0 v7z\" fill=\"#f4b860\" opacity=\".9\"/><rect x=\"124\" y=\"176\" width=\"27\" height=\"89\" fill=\"#5a3220\"/><path d=\"M130 194 v-7 a3.5 3.5 0 0 1 7 0 v7z\" fill=\"#f4b860\" opacity=\".9\"/><rect x=\"152\" y=\"182\" width=\"28\" height=\"83\" fill=\"#5a3220\"/><path d=\"M158 200 v-7 a3.5 3.5 0 0 1 7 0 v7z\" fill=\"#f4b860\" opacity=\".9\"/><rect x=\"181\" y=\"177\" width=\"35\" height=\"88\" fill=\"#5a3220\"/><path d=\"M187 195 v-7 a3.5 3.5 0 0 1 7 0 v7z\" fill=\"#f4b860\" opacity=\".9\"/><path d=\"M201 195 v-7 a3.5 3.5 0 0 1 7 0 v7z\" fill=\"#f4b860\" opacity=\".9\"/><rect x=\"-10\" y=\"199\" width=\"36\" height=\"93\" fill=\"#43251a\"/><path d=\"M-4 217 v-7 a3.5 3.5 0 0 1 7 0 v7z\" fill=\"#f4b860\" opacity=\".9\"/><rect x=\"27\" y=\"210\" width=\"35\" height=\"82\" fill=\"#43251a\"/><path d=\"M33 228 v-7 a3.5 3.5 0 0 1 7 0 v7z\" fill=\"#f4b860\" opacity=\".9\"/><rect x=\"63\" y=\"210\" width=\"26\" height=\"82\" fill=\"#43251a\"/><path d=\"M69 228 v-7 a3.5 3.5 0 0 1 7 0 v7z\" fill=\"#f4b860\" opacity=\".9\"/><rect x=\"90\" y=\"207\" width=\"40\" height=\"85\" fill=\"#43251a\"/><path d=\"M96 225 v-7 a3.5 3.5 0 0 1 7 0 v7z\" fill=\"#f4b860\" opacity=\".9\"/><rect x=\"131\" y=\"203\" width=\"38\" height=\"89\" fill=\"#43251a\"/><path d=\"M137 221 v-7 a3.5 3.5 0 0 1 7 0 v7z\" fill=\"#f4b860\" opacity=\".9\"/><path d=\"M151 221 v-7 a3.5 3.5 0 0 1 7 0 v7z\" fill=\"#f4b860\" opacity=\".9\"/><rect x=\"170\" y=\"201\" width=\"33\" height=\"91\" fill=\"#43251a\"/><path d=\"M176 219 v-7 a3.5 3.5 0 0 1 7 0 v7z\" fill=\"#f4b860\" opacity=\".9\"/><rect x=\"204\" y=\"207\" width=\"34\" height=\"85\" fill=\"#43251a\"/><path d=\"M210 225 v-7 a3.5 3.5 0 0 1 7 0 v7z\" fill=\"#f4b860\" opacity=\".9\"/><path d=\"M224 225 v-7 a3.5 3.5 0 0 1 7 0 v7z\" fill=\"#f4b860\" opacity=\".9\"/><rect x=\"-10\" y=\"238\" width=\"33\" height=\"82\" fill=\"#2e1912\"/><path d=\"M-4 256 v-7 a3.5 3.5 0 0 1 7 0 v7z\" fill=\"#f4b860\" opacity=\".9\"/><rect x=\"24\" y=\"228\" width=\"33\" height=\"92\" fill=\"#2e1912\"/><path d=\"M30 246 v-7 a3.5 3.5 0 0 1 7 0 v7z\" fill=\"#f4b860\" opacity=\".9\"/><path d=\"M44 246 v-7 a3.5 3.5 0 0 1 7 0 v7z\" fill=\"#f4b860\" opacity=\".9\"/><rect x=\"58\" y=\"230\" width=\"32\" height=\"90\" fill=\"#2e1912\"/><path d=\"M64 248 v-7 a3.5 3.5 0 0 1 7 0 v7z\" fill=\"#f4b860\" opacity=\".9\"/><rect x=\"91\" y=\"234\" width=\"37\" height=\"86\" fill=\"#2e1912\"/><path d=\"M97 252 v-7 a3.5 3.5 0 0 1 7 0 v7z\" fill=\"#f4b860\" opacity=\".9\"/><path d=\"M111 252 v-7 a3.5 3.5 0 0 1 7 0 v7z\" fill=\"#f4b860\" opacity=\".9\"/><rect x=\"129\" y=\"235\" width=\"38\" height=\"85\" fill=\"#2e1912\"/><path d=\"M135 253 v-7 a3.5 3.5 0 0 1 7 0 v7z\" fill=\"#f4b860\" opacity=\".9\"/><path d=\"M149 253 v-7 a3.5 3.5 0 0 1 7 0 v7z\" fill=\"#f4b860\" opacity=\".9\"/><rect x=\"168\" y=\"237\" width=\"26\" height=\"83\" fill=\"#2e1912\"/><path d=\"M174 255 v-7 a3.5 3.5 0 0 1 7 0 v7z\" fill=\"#f4b860\" opacity=\".9\"/><rect x=\"195\" y=\"237\" width=\"32\" height=\"83\" fill=\"#2e1912\"/><path d=\"M201 255 v-7 a3.5 3.5 0 0 1 7 0 v7z\" fill=\"#f4b860\" opacity=\".9\"/><path d=\"M215 255 v-7 a3.5 3.5 0 0 1 7 0 v7z\" fill=\"#f4b860\" opacity=\".9\"/>",
+  "chapters": [
+   {
+    "title": "Fotoğraf",
+    "body": [
+     {
+      "t": "p",
+      "s": "**ASYA'dan**"
+     },
+     {
+      "t": "p",
+      "s": "Mardin'e ilk kez akşamüstü vardım ve şehrin bütünüyle bal rengine boyandığını gördüm."
+     },
+     {
+      "t": "p",
+      "s": "Taksi, dar ve dik sokakların başında beni indirdi. \"Buradan sonrası yürünür abla,\" dedi şoför. \"Araba giremez.\""
+     },
+     {
+      "t": "p",
+      "s": "Valizimi taş basamaklardan yukarı sürüklerken her adımda nefesim kesildi. Hem yokuştan, hem de gördüklerimden. Kemerli kapılar, oymalı pencereler, çatılarda kuruyan biberler. Aşağıda, ufka kadar dümdüz uzanan Mezopotamya ovası. Güneş batarken taşlar sanki içten yanıyordu."
+     },
+     {
+      "t": "p",
+      "s": "On iki yıllık mimarlık hayatımda, kitaplarda yüzlerce kez gördüğüm bu şehre ilk defa geliyordum. Ve ilk büyük işim için."
+     },
+     {
+      "t": "p",
+      "s": "Demirkıran Konağı. İki yüz yıllık, üç katlı, on dört odalı, yarısı yıkılmak üzere olan bir taş konak. Bir kültür vakfı, onu restore edip müzeye dönüştürmek için beni tutmuştu."
+     },
+     {
+      "t": "p",
+      "s": "Tek bir sorun vardı. Konağın sahibi bu işe karşıydı."
+     },
+     {
+      "t": "brk"
+     },
+     {
+      "t": "p",
+      "s": "Kapıyı yaşlı bir adam açtı. Beni süzdü, valizimi süzdü, bir şey demeden içeri buyur etti."
+     },
+     {
+      "t": "p",
+      "s": "Avlu, büyülü bir yerdi. Ortada bir havuz, köşede yaşlı bir nar ağacı, etrafını saran kemerli revaklar. Ama duvarlarda derin çatlaklar vardı. Bir köşede taşlar dökülmüş, üst kattaki balkonun korkuluğu yarı yarıya yoktu."
+     },
+     {
+      "t": "p",
+      "s": "\"Siz İstanbul'dan gelen mühendis misiniz?\""
+     },
+     {
+      "t": "p",
+      "s": "Ses yukarıdan geldi. Başımı kaldırdım."
+     },
+     {
+      "t": "p",
+      "s": "Damda, alçak duvarın kenarında bir adam duruyordu. Batan güneş arkasında olduğu için yüzünü göremedim, sadece siluetini. Uzun boylu, geniş omuzlu, beyaz gömleğinin kolları dirseklerine kadar sıvanmış."
+     },
+     {
+      "t": "p",
+      "s": "\"Mimar,\" dedim. \"Restorasyon mimarı. Asya Kaya.\""
+     },
+     {
+      "t": "p",
+      "s": "\"Fark etmez.\" Merdivenlerden aşağı inmeye başladı. Taş basamaklarda ayak sesleri ağır ve kararlıydı. \"Vakfa da söyledim, size de söyleyeyim. Bu konağa kimse dokunmayacak.\""
+     },
+     {
+      "t": "p",
+      "s": "Son basamağı indi ve karşımda durdu. Şimdi yüzünü görebiliyordum."
+     },
+     {
+      "t": "p",
+      "s": "Otuzlarının ortasında olmalıydı. Esmer, keskin hatlı bir yüz. Koyu kaşlar, kısa sakal ve bal rengi gözler. Mardin taşları gibi, diye düşündüm saçma bir şekilde. Sıcak renk, ama taş kadar sert."
+     },
+     {
+      "t": "p",
+      "s": "\"Cihan Demirkıran,\" dedi. Elini uzatmadı."
+     },
+     {
+      "t": "p",
+      "s": "\"Cihan Bey, vakıfla bir sözleşmem var. Konak tescilli bir eser ve şu haliyle iki kış daha dayanmaz. Şu doğu duvarına bakın, temelden çatlamış. Bir sonraki yağmurda...\""
+     },
+     {
+      "t": "p",
+      "s": "\"Bu konak iki yüz yıldır ayakta. Sizin hesaplarınıza ihtiyacı yok.\""
+     },
+     {
+      "t": "p",
+      "s": "\"İki yüz yıldır ayakta, çünkü biri onunla ilgilenmiş. Son otuz yıldır kimse ilgilenmemiş, belli.\""
+     },
+     {
+      "t": "p",
+      "s": "Cihan'ın gözleri kısıldı. Avlunun öbür ucunda, çeşmenin başındaki yaşlı adam başını eğip bir şey mırıldandı. Galiba kimse bu adama böyle cevap vermiyordu."
+     },
+     {
+      "t": "p",
+      "s": "\"Bu konakta neyin olup neyin olmadığına siz karar veremezsiniz Asya Hanım.\""
+     },
+     {
+      "t": "p",
+      "s": "\"Doğru. Siz de veremezsiniz. Çünkü bu konak sadece sizin değil, bu şehrin.\""
+     },
+     {
+      "t": "p",
+      "s": "Bir an birbirimize baktık. Havada bir şey çatırdadı, sanki iki taş birbirine sürtünmüş gibi."
+     },
+     {
+      "t": "p",
+      "s": "\"O zaman kalın,\" dedi sonunda. Sesi sakin, ama gözleri değildi. \"Ölçün, çizin, ne yapacaksanız yapın. Ama tek bir taşa, benim iznim olmadan dokunursanız, o valizi kendi ellerimle yokuştan aşağı indiririm.\""
+     },
+     {
+      "t": "p",
+      "s": "Arkasını dönüp gitti."
+     },
+     {
+      "t": "p",
+      "s": "Ben de arkasından, kimse duymasın diye, yavaşça nefesimi verdim."
+     },
+     {
+      "t": "brk"
+     },
+     {
+      "t": "p",
+      "s": "Ertesi sabah erkenden işe başladım."
+     },
+     {
+      "t": "p",
+      "s": "Lazer ölçerimi, kameramı, çizim defterimi alıp konağı oda oda dolaşmaya başladım. Her odanın ayrı bir hikâyesi vardı. Duvarlarda solmuş kalem işleri, pencere pervazlarında yüz yıllık oymalar, bir odada tavana kadar uzanan ahşap dolaplar."
+     },
+     {
+      "t": "p",
+      "s": "Üçüncü kattaki son oda kilitliydi."
+     },
+     {
+      "t": "p",
+      "s": "Tam kapı kolunu ikinci kez denerken arkamdan bir ses geldi."
+     },
+     {
+      "t": "p",
+      "s": "\"O oda açılmaz kızım.\""
+     },
+     {
+      "t": "p",
+      "s": "Döndüm. Yaşlı, ufak tefek, beyaz yazmalı bir kadın, bastonuna dayanmış bana bakıyordu. Yüzü kırışık ama gözleri hayat doluydu."
+     },
+     {
+      "t": "p",
+      "s": "\"Nazlı Hanım,\" dedi kendini tanıtarak. \"Cihan'ın babaannesi. Dün gece Cihan'a kafa tutan kız sen misin?\""
+     },
+     {
+      "t": "p",
+      "s": "Yüzüm kızardı. \"Kafa tutmadım. Sadece...\""
+     },
+     {
+      "t": "p",
+      "s": "\"Sadece doğruyu söyledin.\" Yaşlı kadın güldü, birkaç dişi eksik bir gülüş. \"Otuz yıldır bu evde kimse ona doğruyu söylemiyor. İyi ettin.\""
+     },
+     {
+      "t": "p",
+      "s": "Yanıma geldi, koluma girdi. \"Gel, sana kahve yapayım. Mırra içtin mi hiç?\""
+     },
+     {
+      "t": "p",
+      "s": "Mutfakta, küçük bir fincanda, acı ve koyu kahveyi içerken Nazlı Hanım bana konağı anlattı. Kaç kuşaktır burada yaşadıklarını. Hangi odada kimin doğduğunu, kimin evlendiğini. Ama kilitli odayı sorduğumda yüzü bir an karardı."
+     },
+     {
+      "t": "p",
+      "s": "\"O oda Cihan'ın amcasının odasıydı. Kırk yıl önce öldü. O günden beri açılmadı.\""
+     },
+     {
+      "t": "p",
+      "s": "Daha fazla sormadım."
+     },
+     {
+      "t": "brk"
+     },
+     {
+      "t": "p",
+      "s": "Öğleden sonra doğu duvarını incelerken bir şey buldum."
+     },
+     {
+      "t": "p",
+      "s": "Duvarın alt kısmında, sıvanın kabardığı bir yerde, taşlardan biri diğerlerinden farklıydı. Daha düzgün kesilmiş, sanki sonradan yerleştirilmiş gibi. Parmaklarımla etrafını yokladım. Gevşekti."
+     },
+     {
+      "t": "p",
+      "s": "İzin almalıydım. Biliyorum. Ama merak, mimarın en büyük günahıdır."
+     },
+     {
+      "t": "p",
+      "s": "Taşı dikkatle yerinden oynattım. Arkasında küçük bir oyuk vardı. Ve oyuğun içinde, tozlu, yağlı bir beze sarılmış bir şey."
+     },
+     {
+      "t": "p",
+      "s": "Bezi açtım. İçinden eski, siyah beyaz bir fotoğraf çıktı. İki genç adam, kol kola, bu avluda, bu nar ağacının önünde gülüyorlardı. Fotoğrafın arkasında, solmuş mürekkeple: *Halil ve Mahmut. 1984.*"
+     },
+     {
+      "t": "p",
+      "s": "Halil. Dedemin adı Halil'di."
+     },
+     {
+      "t": "p",
+      "s": "Ama Türkiye'de binlerce Halil vardı. Değil mi?"
+     },
+     {
+      "t": "p",
+      "s": "\"Ne buldun kızım?\""
+     },
+     {
+      "t": "p",
+      "s": "Nazlı Hanım avlunun ortasında duruyordu. Elimdeki fotoğrafa baktı ve yüzü bembeyaz oldu."
+     },
+     {
+      "t": "p",
+      "s": "Yavaş yavaş yanıma geldi. Fotoğrafı elimden aldı, titreyen parmaklarıyla gençlerden birinin yüzünü okşadı. \"Mahmut'um,\" diye fısıldadı. \"Oğlum.\""
+     },
+     {
+      "t": "p",
+      "s": "Sonra öbür gence baktı. Ve yüzündeki bütün yumuşaklık bir anda kayboldu."
+     },
+     {
+      "t": "p",
+      "s": "\"Senin soyadın neydi kızım?\""
+     },
+     {
+      "t": "p",
+      "s": "\"Kaya.\""
+     },
+     {
+      "t": "p",
+      "s": "\"Babanın adı?\""
+     },
+     {
+      "t": "p",
+      "s": "\"Ömer. Ömer Kaya.\""
+     },
+     {
+      "t": "p",
+      "s": "\"Ya dedenin?\""
+     },
+     {
+      "t": "p",
+      "s": "Bir şeyler ters gidiyordu. Bunu yaşlı kadının sesinden, avlunun birden ağırlaşan havasından anlıyordum. Ama yalan söylemek için bir sebebim yoktu."
+     },
+     {
+      "t": "p",
+      "s": "\"Halil,\" dedim. \"Dedemin adı Halil Kaya. Ben doğmadan ölmüş.\""
+     },
+     {
+      "t": "p",
+      "s": "Nazlı Hanım fotoğrafı göğsüne bastırdı. Gözleri yaşla doldu, ama bakışları buz gibiydi."
+     },
+     {
+      "t": "p",
+      "s": "\"Halil Kaya,\" dedi. \"Kırk yıl önce, bu avluda, benim oğlumu öldüren adam.\""
+     }
+    ]
+   },
+   {
+    "title": "Kan",
+    "body": [
+     {
+      "t": "p",
+      "s": "**ASYA'dan**"
+     },
+     {
+      "t": "p",
+      "s": "Avlu, bir anda dünyanın en sessiz yeri oldu."
+     },
+     {
+      "t": "p",
+      "s": "Nazlı Hanım'ın sözleri havada asılı kaldı. *Benim oğlumu öldüren adam.* Kulaklarım uğulduyordu."
+     },
+     {
+      "t": "p",
+      "s": "\"Yanlışlık olmalı,\" dedim. Sesim çatlak çıktı. \"Dedem... Dedem İstanbul'da bir terzi dükkanı işletmiş. Babam hep onun ne kadar yumuşak kalpli biri olduğunu anlatır. Kimseye zarar...\""
+     },
+     {
+      "t": "p",
+      "s": "\"Halil Kaya,\" diye tekrarladı yaşlı kadın, sanki beni hiç duymamış gibi. \"Bu konağın kâhyasının oğlu. Mahmut'umla aynı gün doğdular, aynı sütü emdiler. Kardeş gibiydiler.\" Fotoğrafı bana çevirdi. \"Bak, nasıl gülüyorlar. Bu fotoğraftan altı ay sonra Halil, Mahmut'u bu avluda bıçakladı ve gece yarısı kaçtı. Bir daha da kimse onu görmedi.\""
+     },
+     {
+      "t": "p",
+      "s": "Dizlerim titredi. Havuzun kenarına çöktüm."
+     },
+     {
+      "t": "p",
+      "s": "Babam hiç anlatmamıştı. Dedemin nereli olduğunu sorduğumda hep \"Doğulu\" demiş, konuyu değiştirmişti. Ben de ısrar etmemiştim. Kimin aklına gelirdi ki?"
+     },
+     {
+      "t": "p",
+      "s": "\"Babaanne?\""
+     },
+     {
+      "t": "p",
+      "s": "Cihan, avlunun kapısında duruyordu. Babaannesinin yüzünü gördü, elindeki fotoğrafı gördü, beni gördü. Üç adımda yanımızdaydı."
+     },
+     {
+      "t": "p",
+      "s": "\"Ne oldu?\""
+     },
+     {
+      "t": "p",
+      "s": "Nazlı Hanım fotoğrafı ona uzattı. Cihan baktı. Çenesi kasıldı."
+     },
+     {
+      "t": "p",
+      "s": "\"Bu kız,\" dedi yaşlı kadın, \"Halil Kaya'nın torunu.\""
+     },
+     {
+      "t": "p",
+      "s": "Cihan yavaşça bana döndü."
+     },
+     {
+      "t": "p",
+      "s": "O bal rengi gözlerde dün geceki öfke yoktu. Daha kötüsü vardı. Hiçbir şey yoktu. Sanki ben, bir anda, bir insan olmaktan çıkıp bir taşa dönüşmüştüm."
+     },
+     {
+      "t": "p",
+      "s": "\"Valizini topla,\" dedi. \"Bir saat içinde bu evden çık.\""
+     },
+     {
+      "t": "brk"
+     },
+     {
+      "t": "p",
+      "s": "Valizimi topladım. Ellerim titriyordu, bir türlü fermuarı kapatamadım."
+     },
+     {
+      "t": "p",
+      "s": "Ama içimde bir ses, *yapma,* diyordu. *Bir şey yanlış.* O fotoğrafta, o iki gencin gülüşünde bir şey vardı. İki yakın arkadaş, kol kola. Halil'in eli Mahmut'un omzunda, öyle sıcak, öyle güvenle. Altı ay sonra o el bir bıçak mı tutmuştu?"
+     },
+     {
+      "t": "p",
+      "s": "Kapı vurulmadan açıldı."
+     },
+     {
+      "t": "p",
+      "s": "İçeri giren Cihan değildi. Yirmili yaşların sonunda, ince bıyıklı, gözleri fıldır fıldır bir adamdı. Kapının pervazına yaslanıp beni tepeden tırnağa süzdü."
+     },
+     {
+      "t": "p",
+      "s": "\"Demek sensin,\" dedi. \"Halil'in torunu.\""
+     },
+     {
+      "t": "p",
+      "s": "\"Siz kimsiniz?\""
+     },
+     {
+      "t": "p",
+      "s": "\"Hakan. Cihan'ın amcaoğlu.\" Sırıttı. \"Bu şehirde kan davası diye bir şey var, biliyor musun mimar hanım? Kırk yıl geçse de kapanmaz. Kan, kanla yıkanır.\""
+     },
+     {
+      "t": "p",
+      "s": "Sırtımdan soğuk bir ter boşaldı. \"Beni tehdit mi ediyorsunuz?\""
+     },
+     {
+      "t": "p",
+      "s": "\"Ben mi?\" Bir adım içeri attı. \"Ben sadece bilgi veriyorum. Sen şimdi bu evden çıkıp o yokuştan inerken, şehrin her köşesinde birileri senin kim olduğunu öğrenmiş olacak. Mardin küçüktür.\""
+     },
+     {
+      "t": "p",
+      "s": "\"Hakan.\""
+     },
+     {
+      "t": "p",
+      "s": "Ses kapının arkasından geldi. Alçak, ama bıçak gibi keskin."
+     },
+     {
+      "t": "p",
+      "s": "Cihan. Hakan'ın arkasında duruyordu. Hakan döndü, gülümsemesi biraz soldu."
+     },
+     {
+      "t": "p",
+      "s": "\"Abi, ben sadece...\""
+     },
+     {
+      "t": "p",
+      "s": "\"Çık.\""
+     },
+     {
+      "t": "p",
+      "s": "\"Abi, bu kız Halil'in...\""
+     },
+     {
+      "t": "p",
+      "s": "\"Bu kız bu evin misafiri,\" dedi Cihan. Her kelimeyi ayrı ayrı, yavaş yavaş söyledi. \"Bu evin kapısından giren misafire kimse yan bakmaz. Bu kural benden önce de vardı, benden sonra da olacak. Şimdi çık.\""
+     },
+     {
+      "t": "p",
+      "s": "Hakan bir an direndi. Sonra omuz silkti ve yanımdan geçerken alçak sesle, sadece benim duyabileceğim kadar, \"Görüşürüz,\" dedi."
+     },
+     {
+      "t": "p",
+      "s": "Kapı kapandı. Cihan içeride kaldı. Valizime baktı, sonra bana."
+     },
+     {
+      "t": "p",
+      "s": "\"Gitmiyor musun?\""
+     },
+     {
+      "t": "p",
+      "s": "\"Bir saatim daha var,\" dedim. Sesim istediğimden daha sert çıktı. \"Siz verdiniz.\""
+     },
+     {
+      "t": "p",
+      "s": "Uzun bir sessizlik oldu. Cihan pencereye yürüdü, dışarıya, kızıl damların üzerinden ovaya baktı."
+     },
+     {
+      "t": "p",
+      "s": "\"Dedenin ne yaptığını gerçekten bilmiyor muydun?\""
+     },
+     {
+      "t": "p",
+      "s": "\"Hayır. Yemin ederim.\""
+     },
+     {
+      "t": "p",
+      "s": "Bana döndü. Gözlerimin içine baktı, uzun uzun. Sanki yalan söyleyip söylemediğimi orada okuyabilirmiş gibi."
+     },
+     {
+      "t": "p",
+      "s": "\"İnanıyorum,\" dedi sonunda."
+     },
+     {
+      "t": "p",
+      "s": "Şaşırdım. \"Neden?\""
+     },
+     {
+      "t": "p",
+      "s": "\"Çünkü yalan söyleyen biri, o fotoğrafı bulduğu yere geri koyardı. Babaanneme göstermezdi.\" Durdu. \"Ama bu bir şeyi değiştirmiyor. Hakan'ın dediği doğru. Bu şehirde artık güvende değilsin.\""
+     },
+     {
+      "t": "brk"
+     },
+     {
+      "t": "p",
+      "s": "Bir saatin sonunda vakfa telefon ettim ve işi bırakmadığımı söyledim. Konağın yakınında, küçük bir taş evde bir oda kiraladım. Cihan bunu duyunca hiçbir şey demedi. Ama ertesi sabah, kiraladığım evin kapısının önünde, sırtını duvara dayamış sigara içen iri yarı bir adam gördüm."
+     },
+     {
+      "t": "p",
+      "s": "\"Cihan Bey gönderdi,\" dedi adam. \"Adım Fırat. Siz nereye, ben oraya.\""
+     },
+     {
+      "t": "p",
+      "s": "Akşam, işten döndüğümde Fırat'ın yüzü kireç gibiydi."
+     },
+     {
+      "t": "p",
+      "s": "\"Arabanız,\" dedi."
+     },
+     {
+      "t": "p",
+      "s": "Kiraladığım küçük arabanın dört lastiği de kesilmişti. Ön camına kırmızı boyayla tek bir kelime yazılmıştı: *KAN.*"
+     },
+     {
+      "t": "p",
+      "s": "Fırat telefonla birini aradı. On dakika sonra Cihan geldi. Arabaya baktı, cama baktı. Hiçbir şey söylemedi. Ama yanağındaki bir kas seğiriyordu."
+     },
+     {
+      "t": "p",
+      "s": "\"Bu gece konakta kalacaksın,\" dedi sonunda."
+     },
+     {
+      "t": "p",
+      "s": "\"Hayır.\""
+     },
+     {
+      "t": "p",
+      "s": "\"Asya...\""
+     },
+     {
+      "t": "p",
+      "s": "\"Beni korumak zorunda değilsiniz. Dedem sizin amcanızı öldürmüş, unuttunuz mu?\""
+     },
+     {
+      "t": "p",
+      "s": "Cihan bana döndü. Sokak lambasının sarı ışığında yüzü hem çok sert hem de çok yorgun görünüyordu."
+     },
+     {
+      "t": "p",
+      "s": "\"Unutmadım,\" dedi. \"Ama benim adımla, benim ailemin adıyla bir kadına zarar verilmesine izin vermem. Kim olursa olsun.\""
+     },
+     {
+      "t": "p",
+      "s": "Tam o sırada telefonum çaldı. Babam."
+     },
+     {
+      "t": "p",
+      "s": "\"Asya! Neredesin kızım? Vakıftaki arkadaşın aradı, Mardin'deymişsin! Mardin'de ne işin var?\""
+     },
+     {
+      "t": "p",
+      "s": "\"Baba, sakin ol, bir iş için...\""
+     },
+     {
+      "t": "p",
+      "s": "\"Hemen dön!\" Babamın sesi daha önce hiç duymadığım kadar korkmuştu. \"Hemen dön Asya! Sen bilmiyorsun, o aile... Demirkıranlar... Deden kaçtığı gece bana bir şey söyledi, kırk yıldır kimseye...\""
+     },
+     {
+      "t": "p",
+      "s": "Hat kesildi."
+     },
+     {
+      "t": "p",
+      "s": "Tekrar aradım. Kapalı. Bir daha. Kapalı."
+     },
+     {
+      "t": "p",
+      "s": "Başımı kaldırdığımda, sokağın karanlık ucunda, bir duvara yaslanmış, sigarasının ucu kıpkırmızı yanan birini gördüm."
+     },
+     {
+      "t": "p",
+      "s": "Hakan. Gülümsüyordu."
+     }
+    ]
+   },
+   {
+    "title": "Kağıt Üstünde Bir Söz",
+    "body": [
+     {
+      "t": "p",
+      "s": "**ASYA'dan**"
+     },
+     {
+      "t": "p",
+      "s": "O gece konakta kaldım."
+     },
+     {
+      "t": "p",
+      "s": "Nazlı Hanım bana avluya bakan küçük bir oda hazırlattı. Beni görmeye gelmedi. Kapıma bir tepsi yemek bıraktırdı, o kadar. Ama yorganımın üzerine, nane kokulu, el işi bir yastık örtüsü konmuştu. Bu evde birinin hâlâ bana iyi niyetle baktığını gösteren tek şey oydu."
+     },
+     {
+      "t": "p",
+      "s": "Babamı sabaha kadar aradım. Telefonu kapalıydı. Annem açtı sonunda, uykulu sesle: babam akşam eve gelmiş, hiçbir şey söylemeden yatmış, sabah erkenden çıkmış. Nereye gittiğini bilmiyordu."
+     },
+     {
+      "t": "p",
+      "s": "Sabah ezanıyla birlikte avluya indim. Kimse yoktu. Sadece nar ağacının dalında bir kumru ötüyordu."
+     },
+     {
+      "t": "p",
+      "s": "Doğu duvarının önüne gittim. Fotoğrafı bulduğum oyuğun önüne çömeldim. Dün o kadar şaşırmıştım ki, oyuğun içine bir kez bile bakmamıştım."
+     },
+     {
+      "t": "p",
+      "s": "Elimi içeri uzattım. Parmaklarım taşın soğuk yüzeyini yokladı. Ve en dipte, bir çatlağın içine sıkışmış, katlanmış bir kağıda değdi."
+     },
+     {
+      "t": "p",
+      "s": "Dikkatle çıkardım. Sararmış, kenarları kemirilmiş bir kağıt. Üzerinde bir el yazısı vardı. Kurşun kalemle, aceleyle yazılmış."
+     },
+     {
+      "t": "p",
+      "s": "*Mahmut'u ben öldürmedim. Ölürken yanındaydım. Son nefesinde bana kimin yaptığını söyledi. Ama kimse bana inanmaz. Bu kağıdı buraya saklıyorum. Bir gün biri bulursa, bilsin ki...*"
+     },
+     {
+      "t": "p",
+      "s": "Kağıt orada yırtılmıştı. Gerisi yoktu."
+     },
+     {
+      "t": "p",
+      "s": "Altında, zar zor okunan bir imza. *H.K.*"
+     },
+     {
+      "t": "p",
+      "s": "Halil Kaya."
+     },
+     {
+      "t": "brk"
+     },
+     {
+      "t": "p",
+      "s": "\"Ne okuyorsun?\""
+     },
+     {
+      "t": "p",
+      "s": "Sıçradım. Kağıdı göğsüme bastırdım."
+     },
+     {
+      "t": "p",
+      "s": "Cihan merdivenin başında duruyordu. Uykusuz bir gece geçirdiği belliydi. Gözlerinin altı mor, gömleği dünkünün aynısı."
+     },
+     {
+      "t": "p",
+      "s": "Bir an saklamayı düşündüm. Sonra vazgeçtim. Bu evde artık yeterince sır vardı."
+     },
+     {
+      "t": "p",
+      "s": "Kağıdı uzattım. Cihan aldı, okudu. Bir kez. İki kez. Yüzünde hiçbir ifade yoktu, ama parmakları kağıdı öyle sıkıyordu ki, eklemleri beyazlamıştı."
+     },
+     {
+      "t": "p",
+      "s": "\"Bu bir şey kanıtlamaz,\" dedi sonunda."
+     },
+     {
+      "t": "p",
+      "s": "\"Biliyorum.\""
+     },
+     {
+      "t": "p",
+      "s": "\"Kırk yıl önce, kaçmadan önce yazmış olabilir. Kendini aklamak için.\""
+     },
+     {
+      "t": "p",
+      "s": "\"Kendini aklamak isteyen biri, bunu bir duvarın içine saklamaz Cihan. Herkese gösterir.\""
+     },
+     {
+      "t": "p",
+      "s": "Cihan bana baktı. İlk defa adımı söylediğimi fark ettim. Bey demeden. O da fark etti."
+     },
+     {
+      "t": "p",
+      "s": "Kağıdı katlayıp bana geri verdi. \"Bunu kimseye gösterme. Hakan'a hiç.\""
+     },
+     {
+      "t": "p",
+      "s": "\"Neden Hakan'a hiç?\""
+     },
+     {
+      "t": "p",
+      "s": "Cevap vermedi. Ama bakışlarındaki gölgeyi gördüm."
+     },
+     {
+      "t": "brk"
+     },
+     {
+      "t": "p",
+      "s": "Öğleden sonra konağın büyük salonunda bir toplantı yapıldı. Ben çağrılmadım ama Nazlı Hanım beni yanına oturttu. \"Senin hakkında konuşulacaksa, burada olacaksın,\" dedi."
+     },
+     {
+      "t": "p",
+      "s": "Salonda on kadar adam vardı. Demirkıran ailesinin büyükleri, birkaç komşu, mahallenin yaşlıları. Başköşede beyaz sakallı, sert bakışlı bir adam oturuyordu. Hakan'ın babası Şerafettin Bey. Cihan'ın küçük amcası."
+     },
+     {
+      "t": "p",
+      "s": "\"Mesele açık,\" dedi Şerafettin Bey. \"Halil'in kanı şehre geri döndü. Mahmut'un kanı yerde kaldı. Bu böyle bitmez.\""
+     },
+     {
+      "t": "p",
+      "s": "Odadaki adamlar başlarını salladı. Kalbim göğsümde çırpınıyordu."
+     },
+     {
+      "t": "p",
+      "s": "\"Kan davası bitti,\" dedi Cihan. Kapının yanında, ayakta duruyordu. \"Benim zamanımda kimse kimseye dokunmayacak.\""
+     },
+     {
+      "t": "p",
+      "s": "\"Senin zamanında mı?\" Şerafettin Bey acı acı güldü. \"Sen daha doğmamıştın Cihan. O gün avluda kardeşimin kanını ben sildim.\""
+     },
+     {
+      "t": "p",
+      "s": "Yaşlılardan biri, bembeyaz bıyıklı, gözleri yarı kapalı bir ihtiyar, elini kaldırdı. Herkes sustu."
+     },
+     {
+      "t": "p",
+      "s": "\"Eskiden,\" dedi titrek bir sesle, \"iki aile arasındaki kanı kapatmanın bir yolu vardı. Kan dökerek değil. Kan birleştirerek.\""
+     },
+     {
+      "t": "p",
+      "s": "Salonda bir uğultu yükseldi. Ne demek istediğini anlamadım. Nazlı Hanım'a döndüm. Yaşlı kadının yüzü kararmıştı."
+     },
+     {
+      "t": "p",
+      "s": "\"Ne demek bu?\" diye fısıldadım."
+     },
+     {
+      "t": "p",
+      "s": "Nazlı Hanım bana bakmadı. Gözleri, kapının yanındaki torununa kenetlenmişti."
+     },
+     {
+      "t": "p",
+      "s": "\"Evlilik demek kızım,\" dedi. \"Halil'in torunu, Mahmut'un yeğeniyle evlenirse, kan kapanır.\""
+     },
+     {
+      "t": "p",
+      "s": "Bütün başlar Cihan'a döndü. Sonra bana."
+     },
+     {
+      "t": "p",
+      "s": "Odadaki havanın çekildiğini hissettim."
+     },
+     {
+      "t": "p",
+      "s": "\"Hayır,\" dedim. Ayağa kalktım. Sesim titriyordu ama net çıktı. \"Ben bir pazarlık malı değilim. Kimseyle evlenmiyorum. Ben buraya bir konağı onarmaya geldim, bir aileye gelin olmaya değil.\""
+     },
+     {
+      "t": "p",
+      "s": "Şerafettin Bey omuz silkti. \"O zaman Mardin'den git. Bu gece. Ve bir daha dönme.\""
+     },
+     {
+      "t": "p",
+      "s": "\"Kimse bir yere gitmiyor.\""
+     },
+     {
+      "t": "p",
+      "s": "Cihan'ın sesi bütün salonu sustu. Yavaşça odanın ortasına yürüdü. Önce amcasına baktı, sonra yaşlılara, en son bana."
+     },
+     {
+      "t": "p",
+      "s": "\"Bu kararı bu salonda vermeyeceğiz,\" dedi. \"Asya Hanım bana cevabını kendisi verecek. Kimsenin zorlaması olmadan. Ve cevabı ne olursa olsun, bu evin koruması altında kalacak.\""
+     },
+     {
+      "t": "p",
+      "s": "Arkasını dönüp çıktı."
+     },
+     {
+      "t": "brk"
+     },
+     {
+      "t": "p",
+      "s": "Gece, onu damda buldum."
+     },
+     {
+      "t": "p",
+      "s": "Alçak duvarın kenarına oturmuş, karanlık ovaya bakıyordu. Uzakta, sınırın öbür yanında ışıklar titreşiyordu. Yanına oturdum. Bir süre ikimiz de konuşmadık."
+     },
+     {
+      "t": "p",
+      "s": "\"Benimle evlenmek zorunda değilsin,\" dedi sonunda. Bana bakmadan."
+     },
+     {
+      "t": "p",
+      "s": "\"Biliyorum.\""
+     },
+     {
+      "t": "p",
+      "s": "\"Ama bu şehirde kalacaksan, dedenin ne olduğunu öğrenmek istiyorsan...\" Durdu. \"Hakan ve babası seni rahat bırakmaz. Benim adım ise senin kalkanın olur. Kimse Demirkıran'ın karısına el kaldıramaz.\""
+     },
+     {
+      "t": "p",
+      "s": "\"Bu nasıl bir evlilik olur Cihan?\""
+     },
+     {
+      "t": "p",
+      "s": "\"Kağıt üstünde bir evlilik.\" Nihayet bana döndü. Ay ışığında gözleri neredeyse altın rengiydi. \"Ayrı odalar. Sana dokunmam, sözüm olsun. Gerçeği bulduğunda, dedenin adını temizlediğinde ya da temizleyemediğinde, istediğin gün boşanırız. Kimse sana bir şey diyemez.\""
+     },
+     {
+      "t": "p",
+      "s": "\"Ve sen? Senin için ne var bunda?\""
+     },
+     {
+      "t": "p",
+      "s": "Cihan uzun süre cevap vermedi."
+     },
+     {
+      "t": "p",
+      "s": "\"Kırk yıldır bu evde bir sır var,\" dedi sonunda. \"Babam bu sırla öldü. Babaannem bu sırla yaşlandı. Ben de... ben de bu sırla büyüdüm. Amcamın kilitli odası, Hakan'ın babasının bakışları, kimsenin konuşmadığı o gece.\" Avucunu açtı, sanki içinde görünmez bir şey varmış gibi baktı. \"Sen o duvarı açtığından beri, ilk defa gerçeği öğrenebileceğimi düşünüyorum.\""
+     },
+     {
+      "t": "p",
+      "s": "Ona baktım. Bu sert, kibirli, ilk gün beni yokuştan indirmekle tehdit eden adama. Ve ilk defa, onun da benim gibi, bir cevap arayan biri olduğunu gördüm."
+     },
+     {
+      "t": "p",
+      "s": "Tam bir şey söyleyecektim ki, aşağıdan, avludan bir ses geldi."
+     },
+     {
+      "t": "p",
+      "s": "Doğu duvarının önünde biri vardı. Elinde bir fener. Fotoğrafı bulduğum taşı yerinden oynatmış, oyuğun içini karıştırıyordu."
+     },
+     {
+      "t": "p",
+      "s": "Fener ışığı bir an yüzüne düştü."
+     },
+     {
+      "t": "p",
+      "s": "Beyaz sakal. Sert bakışlar."
+     },
+     {
+      "t": "p",
+      "s": "Şerafettin Bey."
+     }
+    ]
+   },
+   {
+    "title": "Kına Gecesi",
+    "body": [
+     {
+      "t": "p",
+      "s": "**ASYA'dan**"
+     },
+     {
+      "t": "p",
+      "s": "Cihan'ın eli, kolumu kavradı. \"Kımıldama.\""
+     },
+     {
+      "t": "p",
+      "s": "Damın kenarından, alçak duvarın arkasına sinmiş, aşağıyı izledik. Şerafettin Bey oyuğun içine elini sokmuş, bir şey arıyordu. Elini çıkardığında boştu. Bir daha denedi. Yine boş."
+     },
+     {
+      "t": "p",
+      "s": "Fenerini söndürdü. Karanlıkta, kimseye görünmeden, avludan çıkıp gitti."
+     },
+     {
+      "t": "p",
+      "s": "Ancak o gittikten sonra nefes alabildim. Cihan hâlâ kolumu tutuyordu. Sonra fark etti ve elini çekti."
+     },
+     {
+      "t": "p",
+      "s": "\"Neyi arıyordu?\" diye fısıldadım."
+     },
+     {
+      "t": "p",
+      "s": "Cihan cevap vermedi. Ama ikimiz de biliyorduk. Benim cebimde, kağıda sarılı duran o yarım mektubu."
+     },
+     {
+      "t": "p",
+      "s": "Kırk yıldır o duvarda duran bir mektubu, tam da benim bulduğum hafta, birisi neden arardı? Ancak varlığından haberi olan biri. Ve ancak içinde ne yazdığından korkan biri."
+     },
+     {
+      "t": "p",
+      "s": "\"Kabul ediyorum,\" dedim."
+     },
+     {
+      "t": "p",
+      "s": "Cihan bana döndü."
+     },
+     {
+      "t": "p",
+      "s": "\"Kağıt üstünde bir evlilik. Senin dediğin gibi. Ayrı odalar. Gerçeği bulana kadar.\" Derin bir nefes aldım. \"Ama bir şartım var.\""
+     },
+     {
+      "t": "p",
+      "s": "\"Söyle.\""
+     },
+     {
+      "t": "p",
+      "s": "\"Kilitli oda. Amcanın odası. Onu açacağız.\""
+     },
+     {
+      "t": "p",
+      "s": "Cihan uzun süre bana baktı. Sonra başını salladı."
+     },
+     {
+      "t": "p",
+      "s": "\"Anlaştık.\""
+     },
+     {
+      "t": "brk"
+     },
+     {
+      "t": "p",
+      "s": "Mardin'de bir düğün, bir haftada hazırlanmaz. Ama Nazlı Hanım, \"Bu evin gelini kimseye muhtaç olmaz,\" deyip mahallenin bütün kadınlarını seferber etti."
+     },
+     {
+      "t": "p",
+      "s": "Üç gün boyunca konak, hayatımda gördüğüm en kalabalık, en gürültülü, en sıcak yer oldu. Kadınlar avluda kazanlar kurdu, sabahtan akşama yemek pişirdi. Biri gelinliğimi dikmek için ölçümü aldı, biri saçlarıma kına yakıldığında nasıl duracağını konuştu. Kimse bana neden evlendiğimi sormadı. Ama herkes biliyordu, ben bunu bakışlarından anlıyordum."
+     },
+     {
+      "t": "p",
+      "s": "Nazlı Hanım, kına gecesinden önceki akşam beni odasına çağırdı. Bir sandık açtı ve içinden kat kat sarılmış, kırmızı kadife bir bohça çıkardı."
+     },
+     {
+      "t": "p",
+      "s": "\"Bu benim gelinliğimdi,\" dedi. \"Altmış yıl önce. Sonra Mahmut'un nişanlısına verecektim. Kısmet olmadı.\""
+     },
+     {
+      "t": "p",
+      "s": "Bohçayı kucağıma koydu. Altın sırmalı, el işlemeli, ağır kadife bir entari."
+     },
+     {
+      "t": "p",
+      "s": "\"Nazlı Hanım, bunu kabul edemem.\""
+     },
+     {
+      "t": "p",
+      "s": "\"Edersin.\" Yaşlı kadın ellerimi tuttu. \"Halil'in torunu bu entariyi giyecek. Ve eğer o gerçekten oğlumu öldürmediyse, Allah biliyor, Mahmut'umun ruhu da bunu görecek.\""
+     },
+     {
+      "t": "p",
+      "s": "Gözlerim doldu. \"Ya öldürdüyse?\""
+     },
+     {
+      "t": "p",
+      "s": "Nazlı Hanım gözlerimin içine baktı."
+     },
+     {
+      "t": "p",
+      "s": "\"O zaman da sen onun günahını taşımazsın kızım. Kimse dedesinin günahını taşımaz.\""
+     },
+     {
+      "t": "brk"
+     },
+     {
+      "t": "p",
+      "s": "Kına gecesi, avlu mum ışıklarıyla doldu. Kadınlar türkü söyledi, def çaldı, halay çekti. Avucuma kına koyarken herkes ağlattı beni, adettenmiş. Ben de ağladım. Ama adetten değil."
+     },
+     {
+      "t": "p",
+      "s": "Babam gelmemişti. Telefonu hâlâ kapalıydı. Annem, onun Mardin'e doğru yola çıktığını söylemişti ama nerede olduğunu kimse bilmiyordu."
+     },
+     {
+      "t": "p",
+      "s": "Gece yarısı, herkes dağıldıktan sonra, avlunun kenarında oturmuş ellerime bakıyordum. Kızıl kına, mum ışığında kan gibi görünüyordu."
+     },
+     {
+      "t": "p",
+      "s": "\"Pişman mısın?\""
+     },
+     {
+      "t": "p",
+      "s": "Cihan. Yanıma oturdu. Elinde iki fincan mırra vardı, birini bana uzattı."
+     },
+     {
+      "t": "p",
+      "s": "\"Bilmiyorum,\" dedim dürüstçe. \"Sen?\""
+     },
+     {
+      "t": "p",
+      "s": "Bir yudum aldı. \"Ben hayatımda pişman olacağım çok şey yaptım. Bu onlardan biri değil.\""
+     },
+     {
+      "t": "p",
+      "s": "Ona baktım. Mum ışığında yüzündeki sert hatlar yumuşamıştı."
+     },
+     {
+      "t": "p",
+      "s": "\"Seni ilk gördüğümde,\" dedi alçak sesle, \"damda durmuştum. Güneş arkandaydı. Valizini yokuştan sürüklüyordun ve her basamakta durup etrafa bakıyordun. Sanki bu şehre değil, bir rüyaya giriyormuşsun gibi.\" Durdu. \"Bu taşlara öyle bakan birini çok uzun zamandır görmemiştim.\""
+     },
+     {
+      "t": "p",
+      "s": "Kalbim bir an durdu. Sonra iki katı hızla atmaya başladı."
+     },
+     {
+      "t": "p",
+      "s": "\"Neden bana bunu söylüyorsun?\""
+     },
+     {
+      "t": "p",
+      "s": "\"Bilmiyorum.\" Fincanı bıraktı, ayağa kalktı. \"Belki de yarın, nikâh masasında, sana bunu düşünerek evet diyeceğimi bilmeni istediğim için.\""
+     },
+     {
+      "t": "p",
+      "s": "Gitti. Ben avluda, elimde soğuyan kahveyle, öylece kaldım."
+     },
+     {
+      "t": "brk"
+     },
+     {
+      "t": "p",
+      "s": "Nikâh ertesi gün, öğleden sonra, konağın büyük salonunda kıyıldı."
+     },
+     {
+      "t": "p",
+      "s": "Nazlı Hanım'ın entarisini giydim. Kadınlar saçlarımı ördü, başıma kırmızı bir duvak örttü. Salona girdiğimde herkes sustu. Cihan masanın başında ayağa kalktı. Lacivert takım elbisesiyle, bembeyaz gömleğiyle, beni ilk gördüğü günkü gibi bana bakıyordu. Ama bu sefer gözlerinde öfke yoktu."
+     },
+     {
+      "t": "p",
+      "s": "Nikâh memuru sordu. Ben evet dedim. O evet dedi. İmzalar atıldı. Avluda kadınlar zılgıt çekti."
+     },
+     {
+      "t": "p",
+      "s": "Ve tam o anda telefonum titredi."
+     },
+     {
+      "t": "p",
+      "s": "Bilinmeyen bir numaradan bir mesaj. Bir fotoğraf."
+     },
+     {
+      "t": "p",
+      "s": "Fotoğrafa baktım. Bir kağıt. Sararmış, kenarları yırtık. Kurşun kalemle yazılmış bir el yazısı. Ve bu kağıdın yırtık kenarı, cebimde taşıdığım yarım mektubun yırtık kenarıyla birebir aynıydı."
+     },
+     {
+      "t": "p",
+      "s": "Mektubun öbür yarısı."
+     },
+     {
+      "t": "p",
+      "s": "Fotoğrafın altında tek bir satır vardı:"
+     },
+     {
+      "t": "p",
+      "s": "*Mektubun devamı bende. Babanın da öyle. Bu gece konaktan tek başına çık, yoksa ikisini de bir daha göremezsin.*"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "yayla",
+  "title": "Sisli Yayla",
+  "kicker": "RİZE",
+  "author": "Okuma Köşesi özel",
+  "status": "Devam ediyor",
+  "tags": [
+   "İkiz Sırrı",
+   "Dul Baba",
+   "Karadeniz",
+   "Gizem",
+   "Mutlu Son"
+  ],
+  "blurb": [
+   "Zeynep, İzmirli genç bir hemşiredir. Sekiz yıl önce ikiz kardeşi Meryem'le kavga etmiş, bir daha hiç konuşmamıştır. Bir yıl önce Meryem'in Rize'de bir yayla yolunda arabasıyla dereye yuvarlanıp öldüğünü gazeteden öğrenir.",
+   "Kardeşinin kızını görebilmek için Ayder Yaylası'ndaki sağlık evine gönüllü hemşire olarak gelir. Kimse onun kim olduğunu bilmez.",
+   "Ta ki bir fırtına gecesi, dul ve suskun çay fabrikatörü Yusuf Altunsoy, ateşler içindeki kızını sağlık evinin kapısına getirene kadar. Bir yıldır tek kelime etmeyen küçük Duru, Zeynep'in yüzünü görünce ağzını açar: Anne?",
+   "Meryem'in odasında saklı bir günlük, bir yıl önceki kazanın kaza olmadığını fısıldar. Ve Zeynep, kardeşinin korktuğu kişinin hâlâ o evde, her sabah aynı kahvaltı masasında oturduğunu anlar."
+  ],
+  "bg": "linear-gradient(180deg,#8fa69a 0%,#c7d3cc 45%,#e9eeea 100%)",
+  "art": "<path d=\"M0 170 Q50 140 100 165 T200 150 V300 H0z\" fill=\"#5d7d6c\"/><rect x=\"0\" y=\"175\" width=\"200\" height=\"14\" fill=\"#e6ece8\" opacity=\".5\"/><path d=\"M0 205 Q60 180 120 205 T200 195 V300 H0z\" fill=\"#3e5f4d\"/><path d=\"M159 183 l9.2 33 h-18.5z\" fill=\"#1d3329\"/><path d=\"M176 209 l10.6 38 h-21.3z\" fill=\"#1d3329\"/><path d=\"M7 200 l8.1 29 h-16.2z\" fill=\"#1d3329\"/><path d=\"M166 176 l7.6 27 h-15.1z\" fill=\"#1d3329\"/><path d=\"M28 186 l10.4 37 h-20.7z\" fill=\"#1d3329\"/><path d=\"M63 199 l7.0 25 h-14.0z\" fill=\"#1d3329\"/><path d=\"M146 193 l6.2 22 h-12.3z\" fill=\"#1d3329\"/><path d=\"M187 178 l9.8 35 h-19.6z\" fill=\"#1d3329\"/><path d=\"M71 177 l9.5 34 h-19.0z\" fill=\"#1d3329\"/><path d=\"M40 224 l6.7 24 h-13.4z\" fill=\"#1d3329\"/><path d=\"M35 203 l10.1 36 h-20.2z\" fill=\"#1d3329\"/><path d=\"M32 186 l6.2 22 h-12.3z\" fill=\"#1d3329\"/><path d=\"M1 185 l7.8 28 h-15.7z\" fill=\"#1d3329\"/><path d=\"M42 179 l8.7 31 h-17.4z\" fill=\"#1d3329\"/><path d=\"M80 184 l7.8 28 h-15.7z\" fill=\"#1d3329\"/><path d=\"M46 216 l7.8 28 h-15.7z\" fill=\"#1d3329\"/><rect x=\"0\" y=\"232\" width=\"200\" height=\"18\" fill=\"#e6ece8\" opacity=\".45\"/><path d=\"M0 255 Q70 238 140 258 T200 250 V300 H0z\" fill=\"#22392e\"/><rect x=\"34\" y=\"236\" width=\"20\" height=\"13\" fill=\"#f4f1ea\"/><path d=\"M31 237 l13 -9 l13 9z\" fill=\"#8a2f2a\"/><rect x=\"41\" y=\"240\" width=\"5\" height=\"5\" fill=\"#f2c46b\"/>",
+  "chapters": [
+   {
+    "title": "Sis",
+    "body": [
+     {
+      "t": "p",
+      "s": "Yayla yolu, sisin içinde kayboluyordu."
+     },
+     {
+      "t": "p",
+      "s": "Zeynep arabanın farlarını yaktı, ama bir şey değişmedi. Önünde sadece beyaz bir duvar vardı. Ağaçlar, uçurum, yol, hepsi o beyazlığın içinde erimişti. Silecekler gıcırdayarak gidip geliyor, çiseleyen yağmuru camdan siliyordu."
+     },
+     {
+      "t": "p",
+      "s": "Yan koltukta, açık duran bir zarfın içinden bir fotoğraf bakıyordu ona. İki küçük kız, aynı kırmızı yağmurlukları giymiş, bir kumsalda, el ele. Aynı yüz, aynı gülüş, aynı eksik ön diş."
+     },
+     {
+      "t": "p",
+      "s": "Zeynep ve Meryem. Yedi yaşında."
+     },
+     {
+      "t": "p",
+      "s": "Meryem'i en son yirmi bir yaşında görmüştü. Sekiz yıl önce, İzmir'de bir hastane koridorunda. Annelerinin cenazesinden bir gün sonra. Bağırmışlardı. İkisi de söylememesi gereken şeyler söylemişti. Sonra Meryem kapıyı çarpıp gitmiş ve bir daha hiç aramamıştı."
+     },
+     {
+      "t": "p",
+      "s": "Zeynep de aramamıştı. Gururdan. Kırgınlıktan. Her yıl doğum günlerinde telefonu eline alıp, numarayı çevirip, son tuşa basmadan bırakmıştı."
+     },
+     {
+      "t": "p",
+      "s": "Ve bir yıl önce, bir sabah, Meryem'in bir yayla yolunda, arabasıyla birlikte dereye yuvarlanıp öldüğünü bir gazete haberinden öğrenmişti. Rize'de, varlıklı bir çay ailesinin gelini, diye yazıyordu haberde. Altı yaşında bir kızı varmış."
+     },
+     {
+      "t": "p",
+      "s": "Cenazesine bile gidememişti. Çünkü haberi okuduğunda Meryem çoktan toprağa verilmişti. Ve Meryem'in yeni ailesi, onun bir ikiz kardeşi olduğunu bilmiyordu bile."
+     },
+     {
+      "t": "p",
+      "s": "Bir yıl boyunca bununla yaşamıştı Zeynep. Sonra bir gün, hastanenin ilan panosunda bir duyuru görmüştü: *Ayder Yaylası Sağlık Evi'ne gönüllü hemşire aranıyor.*"
+     },
+     {
+      "t": "p",
+      "s": "Başvurmuştu. Neden olduğunu kendine bile söylemeden."
+     },
+     {
+      "t": "brk"
+     },
+     {
+      "t": "p",
+      "s": "Araba bir çukura girdi ve öyle bir sarsıldı ki Zeynep'in başı tavana çarptı. Motor bir kez öksürdü, sonra sustu. Gaza bastı. Tekerlekler boşta döndü, çamur sıçradı."
+     },
+     {
+      "t": "p",
+      "s": "Saplanmıştı."
+     },
+     {
+      "t": "p",
+      "s": "\"Harika,\" diye mırıldandı. \"Mükemmel.\""
+     },
+     {
+      "t": "p",
+      "s": "Yağmurluğunun başlığını kafasına geçirip dışarı çıktı. Çamur bileklerine kadar geldi. Sis o kadar yoğundu ki, arabanın arkasını bile zor görüyordu. Telefonuna baktı. Çekmiyordu."
+     },
+     {
+      "t": "p",
+      "s": "Bir motor sesi duydu. Sisin içinden iki sarı far belirdi. Büyük, eski bir kamyonet, yavaşlayarak yanında durdu."
+     },
+     {
+      "t": "p",
+      "s": "Kapı açıldı. İnen adam, uzun boylu, sırtında koyu yeşil bir yağmurluk vardı. Başlığı yüzüne düşmüştü. Hiçbir şey söylemeden arabanın arkasına geçti, tekerleklere baktı, sonra kamyonetinden bir halat çıkardı."
+     },
+     {
+      "t": "p",
+      "s": "\"Direksiyona geçin,\" dedi. Sesi derin ve boğuktu. Karadeniz şivesi, ama yumuşak. \"Ben çekince gaza hafif basın. Hafif, dedim.\""
+     },
+     {
+      "t": "p",
+      "s": "Zeynep direksiyona geçti. Adam halatı bağladı, kamyonete bindi. Bir çekiş. İki. Üçüncüsünde araba çamurdan bir anda kurtuldu."
+     },
+     {
+      "t": "p",
+      "s": "Zeynep inip teşekkür etmek istedi. Ama adam halatı çoktan çözmüş, kamyonetine binmişti bile. Camı indirdi, sisin içinden seslendi."
+     },
+     {
+      "t": "p",
+      "s": "\"Bu havada bu yola çıkılmaz. Nereye gidiyorsunuz?\""
+     },
+     {
+      "t": "p",
+      "s": "\"Sağlık evine. Yeni hemşireyim.\""
+     },
+     {
+      "t": "p",
+      "s": "Bir an sessizlik. \"Yarım saat düz gidin. Köprüden sonra sağda.\" Durdu. \"Hoş geldiniz.\""
+     },
+     {
+      "t": "p",
+      "s": "Ve kamyonet sisin içinde kayboldu."
+     },
+     {
+      "t": "p",
+      "s": "Zeynep, adamın yüzünü bir kez bile görmediğini ancak o zaman fark etti."
+     },
+     {
+      "t": "brk"
+     },
+     {
+      "t": "p",
+      "s": "Sağlık evi, yamaca kurulmuş iki katlı, ahşap bir binaydı. Altta muayene odası ve küçük bir eczane, üstte Zeynep'in kalacağı bir oda. Pencereden, sisin arasından, yeşilin bin tonu görünüyordu. Çay bahçeleri, ladin ormanları, aşağıda köpüren bir dere."
+     },
+     {
+      "t": "p",
+      "s": "Doktor Ali Bey, altmışlarında, güler yüzlü bir adamdı. Haftada iki gün yaylaya çıkıyor, gerisini Zeynep'e bırakıyordu."
+     },
+     {
+      "t": "p",
+      "s": "\"Burada çok iş yok,\" dedi ilk gün. \"Yaşlıların tansiyonu, çocukların öksürüğü, bir de turistlerin burkulan ayakları. Ama kışın yol kapanınca tek başına kalırsın. Hazır mısın?\""
+     },
+     {
+      "t": "p",
+      "s": "\"Hazırım.\""
+     },
+     {
+      "t": "p",
+      "s": "İlk hafta sessiz geçti. Zeynep köyü tanıdı, kadınlarla çay içti, yaşlıların ilaçlarını düzenledi. Ve her gece, pencereden aşağıdaki büyük, beyaz konağa baktı. Yamacın en güzel yerinde, çay bahçelerinin ortasında, ışıkları hiç sönmeyen bir ev."
+     },
+     {
+      "t": "p",
+      "s": "Altunsoy Konağı. Meryem'in evi."
+     },
+     {
+      "t": "p",
+      "s": "Bir kere, sadece bir kere, oraya kadar yürüdü. Bahçe kapısının önünde durdu. İçeri girmedi. Ne diyecekti ki? *Merhaba, ben ölen gelininizin hiç bahsetmediği ikiz kardeşiyim?*"
+     },
+     {
+      "t": "p",
+      "s": "Geri döndü."
+     },
+     {
+      "t": "brk"
+     },
+     {
+      "t": "p",
+      "s": "Sekizinci gece, saat on bire doğru, sağlık evinin kapısı yumruklarla dövüldü."
+     },
+     {
+      "t": "p",
+      "s": "Zeynep merdivenleri koşarak indi. Kapıyı açtığında karşısında, kucağında battaniyeye sarılı bir çocukla, sırılsıklam bir adam duruyordu."
+     },
+     {
+      "t": "p",
+      "s": "\"Ateşi kırk,\" dedi adam. Sesi panikliydi ama kontrollü. \"Akşamdan beri düşmüyor. Doktor yok, yol kapalı, Trabzon'a iki saat.\""
+     },
+     {
+      "t": "p",
+      "s": "O ses. Zeynep tanıdı. Sisli yoldaki adam."
+     },
+     {
+      "t": "p",
+      "s": "\"İçeri getirin. Hemen.\""
+     },
+     {
+      "t": "p",
+      "s": "Adam çocuğu muayene masasına yatırdı. Altı yaşlarında bir kız. Uzun, koyu saçları terden alnına yapışmış, yanakları kıpkırmızı. Gözleri yarı kapalı, nefesi hızlı."
+     },
+     {
+      "t": "p",
+      "s": "Zeynep hızla çalıştı. Ateşini ölçtü, boğazına baktı, nabzını saydı. İlacını hazırladı, ılık bezlerle bileklerini, ensesini sildi. Adam kapının yanında, kollarını göğsünde kavuşturmuş, kıpırdamadan izliyordu."
+     },
+     {
+      "t": "p",
+      "s": "Yarım saat sonra ateş otuz sekiz buçuğa düştü. Çocuğun nefesi düzeldi."
+     },
+     {
+      "t": "p",
+      "s": "\"Düşüyor,\" dedi Zeynep, nihayet doğrularak. \"Boğaz enfeksiyonu. Korkacak bir şey yok, ama bu gece burada kalsın, sabaha kadar izleyelim.\""
+     },
+     {
+      "t": "p",
+      "s": "Adam bir adım attı. Sonra durdu. \"Teşekkür ederim.\""
+     },
+     {
+      "t": "p",
+      "s": "Zeynep o ana kadar yağmurluğunun başlığını çıkarmayı unuttuğunu fark etti. Islak başlığı geriye attı, saçlarını kulağının arkasına sıkıştırdı ve döndü."
+     },
+     {
+      "t": "p",
+      "s": "\"Kızınızın adı ne?\""
+     },
+     {
+      "t": "p",
+      "s": "Adam cevap vermedi."
+     },
+     {
+      "t": "p",
+      "s": "Kapının yanında, olduğu yerde donup kalmıştı. Yüzü bembeyaz olmuştu. Gözleri, sanki bir hayalet görmüş gibi, Zeynep'in yüzüne kilitlenmişti."
+     },
+     {
+      "t": "p",
+      "s": "\"Siz...\" Sesi bir fısıltıydı. \"Bu... nasıl...\""
+     },
+     {
+      "t": "p",
+      "s": "Ve o anda, masanın üzerinde yatan küçük kız gözlerini açtı."
+     },
+     {
+      "t": "p",
+      "s": "Başını yavaşça çevirdi. Zeynep'e baktı. Uzun, uzun baktı. Sonra minik elini, titreyerek, ona doğru uzattı."
+     },
+     {
+      "t": "p",
+      "s": "Ve bir yıldır, annesinin öldüğü günden beri tek kelime etmeyen Duru, kısık, çatlak bir sesle tek bir kelime söyledi."
+     },
+     {
+      "t": "p",
+      "s": "\"Anne?\""
+     }
+    ]
+   },
+   {
+    "title": "Duru",
+    "body": [
+     {
+      "t": "p",
+      "s": "Odadaki zaman durdu."
+     },
+     {
+      "t": "p",
+      "s": "Zeynep, uzanan o minik eli tuttu. Başka ne yapabilirdi ki? El sıcaktı, titriyordu. Duru'nun parmakları, sanki bir daha kaybetmekten korkuyormuş gibi, onunkilere kenetlendi."
+     },
+     {
+      "t": "p",
+      "s": "\"Anne,\" dedi küçük kız bir daha. Bu sefer daha net. Gözleri yaşla doldu. \"Annem geldi.\""
+     },
+     {
+      "t": "p",
+      "s": "Kapının yanındaki adam bir ses çıkardı. Bir hıçkırık mı, bir inilti mi, Zeynep anlayamadı. Adam arkasını döndü, alnını kapının pervazına dayadı. Omuzları sarsılıyordu."
+     },
+     {
+      "t": "p",
+      "s": "Zeynep ne diyeceğini bilmeden, Duru'nun elini tuttu, saçlarını okşadı. \"Şşş,\" dedi. \"Uyu canım. Buradayım.\""
+     },
+     {
+      "t": "p",
+      "s": "Duru gözlerini kapattı. Ama eli, Zeynep'in elini bırakmadı. Birkaç dakika sonra nefesi derinleşti ve uykuya daldı."
+     },
+     {
+      "t": "p",
+      "s": "Ancak o zaman adam döndü. Gözleri kıpkırmızıydı."
+     },
+     {
+      "t": "p",
+      "s": "\"Kimsiniz siz?\""
+     },
+     {
+      "t": "brk"
+     },
+     {
+      "t": "p",
+      "s": "Mutfaktaki küçük masada karşılıklı oturdular. Zeynep iki bardak çay koydu. Adam dokunmadı."
+     },
+     {
+      "t": "p",
+      "s": "\"Adım Zeynep. Zeynep Aydın.\" Derin bir nefes aldı. \"Meryem benim ikiz kardeşimdi.\""
+     },
+     {
+      "t": "p",
+      "s": "Adam hiç kıpırdamadı. Sadece çenesinin kasıldığını gördü."
+     },
+     {
+      "t": "p",
+      "s": "\"Meryem'in kardeşi yoktu,\" dedi. Sesi buz gibiydi. \"Ailesi yoktu. Bana öyle söyledi. Annesi babası küçükken ölmüş, yurtta büyümüş.\""
+     },
+     {
+      "t": "p",
+      "s": "\"Yurtta büyümedi. İzmir'de, bir apartman dairesinde, benimle aynı odada büyüdü. Babamız erken öldü, evet. Annemiz sekiz yıl önce.\" Zeynep çantasından fotoğrafı çıkardı, masaya koydu. \"Biz annemizin cenazesinden sonra kavga ettik. Çok kötü bir kavga. Sonra bir daha hiç konuşmadık.\""
+     },
+     {
+      "t": "p",
+      "s": "Adam fotoğrafa baktı. Kırmızı yağmurluklu iki küçük kıza. Aynı yüz, aynı eksik diş."
+     },
+     {
+      "t": "p",
+      "s": "Uzun süre baktı. Sonra fotoğrafı yavaşça masaya bıraktı ve yüzünü ellerinin arasına gömdü."
+     },
+     {
+      "t": "p",
+      "s": "\"Neden?\" dedi ellerinin arasından. \"Neden bana hiç söylemedi?\""
+     },
+     {
+      "t": "p",
+      "s": "\"Bilmiyorum.\" Zeynep'in sesi kırıldı. \"Belki beni hiç affetmediği için. Belki de ben onu affetmediğim için.\" Durdu. \"Onun cenazesine bile gelemedim. Gazeteden öğrendim. Siz... siz Yusuf Bey'siniz, değil mi? Kocası.\""
+     },
+     {
+      "t": "p",
+      "s": "Adam başını kaldırdı. \"Yusuf Altunsoy.\""
+     },
+     {
+      "t": "p",
+      "s": "\"Duru konuşmuyor muydu?\""
+     },
+     {
+      "t": "p",
+      "s": "\"Bir yıldır tek kelime etmedi.\" Yusuf'un sesi çatladı. \"İstanbul'a götürdüm, Ankara'ya götürdüm. Doktorlar, psikologlar. Hepsi aynı şeyi söyledi. Zaman lazım. Zaman.\" Acı acı güldü. \"Ve bu gece... siz kapıdan döndünüz, o da...\""
+     },
+     {
+      "t": "p",
+      "s": "Cümlesini bitiremedi."
+     },
+     {
+      "t": "brk"
+     },
+     {
+      "t": "p",
+      "s": "Sabah ateşi düşmüştü. Duru uyandığında ilk iş Zeynep'i aradı. Bulunca, bir daha yanından ayrılmadı."
+     },
+     {
+      "t": "p",
+      "s": "Yusuf onu konağa götürmek istediğinde, küçük kız Zeynep'in bacağına sarıldı ve öyle bir çığlık attı ki, bütün sağlık evi titredi. Konuşmuyordu artık, o tek kelimeden sonra tekrar susmuştu. Ama bırakmıyordu."
+     },
+     {
+      "t": "p",
+      "s": "Öğleden sonra konaktan bir kadın geldi. Altmışlarında, dimdik, gümüş saçlı, siyah giyimli. Yusuf'un annesi Hayriye Hanım. Kapıdan içeri girdi, Zeynep'i gördü ve olduğu yerde dondu."
+     },
+     {
+      "t": "p",
+      "s": "Sonra kendini toparladı. Gözleri kısıldı."
+     },
+     {
+      "t": "p",
+      "s": "\"Demek doğruymuş,\" dedi. \"Yusuf telefonda söyledi, inanmadım.\" Zeynep'i tepeden tırnağa süzdü. \"Meryem'in bir ikizi. Ne tesadüf. Tam da bu yaylaya, tam da bu sağlık evine gelmişsiniz.\""
+     },
+     {
+      "t": "p",
+      "s": "\"Hayriye Hanım, ben sadece...\""
+     },
+     {
+      "t": "p",
+      "s": "\"Ne istiyorsunuz? Para mı? Altunsoy'ların gelininin mirası mı?\""
+     },
+     {
+      "t": "p",
+      "s": "\"Anne!\" Yusuf'un sesi gürledi."
+     },
+     {
+      "t": "p",
+      "s": "\"Ne anne? Bir yıl önce bu kızın varlığından haberimiz yoktu. Şimdi aniden çıkıp geliyor, torunumun aklını çeliyor...\""
+     },
+     {
+      "t": "p",
+      "s": "\"Kimsenin aklını çelmedim.\" Zeynep ayağa kalktı. Sesi titriyordu ama kararlıydı. \"Kardeşimin kızını görmek istedim, o kadar. Uzaktan. Kapınızın önüne kadar gelip geri döndüm. Duru dün gece hastaydı, ben de hemşireyim. Gerisi benim elimde değildi.\""
+     },
+     {
+      "t": "p",
+      "s": "Hayriye Hanım bir şey diyecekti, Yusuf araya girdi."
+     },
+     {
+      "t": "p",
+      "s": "\"Yeter anne.\" Sonra Zeynep'e döndü. Sesi yorgundu, ama kararlıydı. \"Duru'nun doktoruyla konuştum bu sabah. Telefonda. Olanları anlattım.\" Durdu. \"Bir yıldır ilk defa bir tepki verdi, dedi. Bunu kaybetmemeliyiz. Duru'nun yanında olmanız gerekiyor. En azından bir süre.\""
+     },
+     {
+      "t": "p",
+      "s": "\"Ne demek istiyorsunuz?\""
+     },
+     {
+      "t": "p",
+      "s": "\"Konakta kalın. Duru'nun hemşiresi olarak. Sağlık evine Ali Bey'le konuşurum, başka birini buluruz.\" Yusuf yutkundu. \"Bunu sizden istemeye hakkım yok, biliyorum. Ama kızım için... istiyorum.\""
+     },
+     {
+      "t": "p",
+      "s": "Zeynep, kapının arkasından onları izleyen küçük kıza baktı. Duru'nun gözleri ona kilitlenmişti. Bekliyordu."
+     },
+     {
+      "t": "p",
+      "s": "\"Kalırım,\" dedi."
+     },
+     {
+      "t": "brk"
+     },
+     {
+      "t": "p",
+      "s": "Konak, içeriden dışarıdan göründüğünden de büyüktü. Ahşap merdivenler, geniş pencereler, her odadan çay bahçelerine bakan balkonlar."
+     },
+     {
+      "t": "p",
+      "s": "Zeynep'e, Duru'nun odasının bitişiğindeki odayı verdiler. Meryem'in odasıydı, diye fısıldadı yaşlı hizmetçi Nuriye Abla, valizini taşırken. Yusuf Bey bir yıldır kimseyi sokmamıştı."
+     },
+     {
+      "t": "p",
+      "s": "Gece, Duru uyuduktan sonra Zeynep odasında tek başına oturdu. Her şey hâlâ yerli yerindeydi. Tarağı, parfümü, gardıropta asılı elbiseleri. Bir sandalyenin üzerinde yarım bırakılmış bir örgü. Meryem örgü örmeyi hiç sevmezdi, diye düşündü Zeynep. Sekiz yılda ne kadar çok şey değişmişti."
+     },
+     {
+      "t": "p",
+      "s": "Kapı aralandı. Duru, pijamalarıyla, elinde bir oyuncak ayıyla duruyordu."
+     },
+     {
+      "t": "p",
+      "s": "\"Uyuyamadın mı?\""
+     },
+     {
+      "t": "p",
+      "s": "Duru başını salladı. İçeri girdi, yatağa tırmandı, Zeynep'in kucağına kıvrıldı. Oyuncak ayıyı ona uzattı."
+     },
+     {
+      "t": "p",
+      "s": "Zeynep ayıyı aldı. Eski, yıpranmış, bir gözü düşmüş bir ayı. Sırtında bir dikiş açılmıştı. Ve o açık dikişin arasından, bir kağıt kenarı görünüyordu."
+     },
+     {
+      "t": "p",
+      "s": "Zeynep bir an tereddüt etti. Sonra parmaklarıyla kağıdı dikkatle çekti."
+     },
+     {
+      "t": "p",
+      "s": "Küçük, kalın, deri kaplı bir defterdi. Bir günlük."
+     },
+     {
+      "t": "p",
+      "s": "İlk sayfayı açtı. Tanıdık, eğik bir el yazısı. Meryem'in yazısı."
+     },
+     {
+      "t": "p",
+      "s": "Son yazılı sayfaya geldi. Tarih, ölümünden üç gün öncesiydi. Yazı titrek ve aceleydi:"
+     },
+     {
+      "t": "p",
+      "s": "*Yusuf'a söyleyemem. Bana inanmaz. O, kendi kardeşi gibi sever onu. Ama ben gördüm. Ve o da benim gördüğümü biliyor. Eğer bana bir şey olursa, Duru'yu ondan uzak tutun. Lütfen. Kim bulursa, Duru'yu ondan uzak tutun.*"
+     }
+    ]
+   },
+   {
+    "title": "Günlük",
+    "body": [
+     {
+      "t": "p",
+      "s": "Zeynep o gece günlüğün tamamını okudu."
+     },
+     {
+      "t": "p",
+      "s": "Duru kucağında uyurken, başucu lambasının ışığında, sayfa sayfa. Kardeşinin son iki yılını. Sekiz yılın sessizliğinden sonra, ilk defa Meryem'in sesini duyar gibi oldu."
+     },
+     {
+      "t": "p",
+      "s": "İlk sayfalar mutluydu. Yusuf'la nasıl tanıştıklarını yazmıştı. Trabzon'da bir hastanede, Meryem'in sekreter olarak çalıştığı yerde. Yusuf'un babası yoğun bakımdaymış, Yusuf her gece koridorda sabahlıyormuş. Meryem ona çay götürmüş. Bir gece, iki gece, on gece."
+     },
+     {
+      "t": "p",
+      "s": "*Hiç konuşmadan çay içiyorduk. Sonra bir gün, babası öldüğü sabah, bana \"Sen olmasaydın bu geceleri nasıl geçirirdim bilmiyorum\" dedi. O an anladım ki, ben bu adamla evleneceğim.*"
+     },
+     {
+      "t": "p",
+      "s": "Zeynep gözlerini sildi."
+     },
+     {
+      "t": "p",
+      "s": "Sonra Duru'nun doğumu. İlk adımları. İlk kelimesi. *Baba dedi. Anne demedi. Yusuf öyle bir güldü ki, bütün yayla duydu.*"
+     },
+     {
+      "t": "p",
+      "s": "Ve bir yerde, birden, Zeynep'in adı."
+     },
+     {
+      "t": "p",
+      "s": "*Bugün Duru'nun doğum günü. Zeynep'i aradım. Numara hâlâ aynı. Çaldı. Açmadan kapattım. Ne diyecektim? Sekiz yıl. Yusuf'a onun varlığını bile söylemedim. Ne kadar korkağım.*"
+     },
+     {
+      "t": "p",
+      "s": "Zeynep defteri kapattı. Göğsüne bastırdı. Sessizce, Duru'yu uyandırmamak için, uzun uzun ağladı."
+     },
+     {
+      "t": "p",
+      "s": "Demek aramıştı. Demek o da her doğum gününde telefonu eline almıştı."
+     },
+     {
+      "t": "brk"
+     },
+     {
+      "t": "p",
+      "s": "Ertesi gün, Zeynep Kenan'la tanıştı."
+     },
+     {
+      "t": "p",
+      "s": "Kahvaltı masasına geldiğinde, Yusuf'un yanında otururken buldu onu. Otuzlarının ortasında, Yusuf'tan biraz kısa, ama daha parlak, daha cilalı. Pahalı bir kazak, düzgün taranmış saçlar, ince bir bıyık. Ve her şeyi aydınlatan, geniş bir gülümseme."
+     },
+     {
+      "t": "p",
+      "s": "\"İşte meşhur ikiz!\" Ayağa kalktı, elini uzattı. \"Kenan. Yusuf'un amcaoğlu, fabrikanın öbür yarısı. Herkes seni konuşuyor. Duru'nun mucizesi.\""
+     },
+     {
+      "t": "p",
+      "s": "\"Mucize değil,\" dedi Zeynep, elini sıkarken. \"Sadece yüzüm.\""
+     },
+     {
+      "t": "p",
+      "s": "\"Ah, alçakgönüllü de.\" Kenan güldü, Yusuf'a döndü. \"Bak, Meryem de böyleydi. Hiç övgü kabul etmezdi.\""
+     },
+     {
+      "t": "p",
+      "s": "Yusuf bir şey demedi. Ama Zeynep, onun yüzünde bir an beliren acıyı gördü."
+     },
+     {
+      "t": "p",
+      "s": "Kenan kahvaltı boyunca konuştu. Fabrikayı, ihracatı, yeni makineleri. Zeynep'e İzmir'i sordu, hemşireliği sordu. Duru'ya şaka yaptı, burnunu sıktı. Duru güldü mü? Hayır. Duru, Kenan masaya oturduğundan beri tabağına bakıyordu ve küçük eli, masanın altında, Zeynep'in eteğini sıkıca tutuyordu."
+     },
+     {
+      "t": "p",
+      "s": "*Duru'yu ondan uzak tutun.*"
+     },
+     {
+      "t": "p",
+      "s": "Zeynep'in içinden soğuk bir ürperti geçti."
+     },
+     {
+      "t": "brk"
+     },
+     {
+      "t": "p",
+      "s": "Öğleden sonra yağmur başladı. Yayla yağmuru, ince ve inatçı."
+     },
+     {
+      "t": "p",
+      "s": "Zeynep, Duru'yu çay bahçesine çıkardı. İkisi de yağmurluk giymişti. Duru'nunki kırmızıydı. Zeynep onu görünce bir an nefesini tuttu. Kırmızı yağmurluklu küçük bir kız, yeşilin ortasında."
+     },
+     {
+      "t": "p",
+      "s": "Bahçenin aşağısında Yusuf vardı. İşçilerle birlikte çay topluyordu. Fabrikanın sahibi olduğu halde, sırtında küfesi, elleri yeşile boyanmış."
+     },
+     {
+      "t": "p",
+      "s": "Duru, onu görünce Zeynep'in elini çekiştirdi. Aşağı indiler. Yusuf onları görünce durdu."
+     },
+     {
+      "t": "p",
+      "s": "\"Islanacaksınız.\""
+     },
+     {
+      "t": "p",
+      "s": "\"Islanıyoruz zaten.\" Zeynep gülümsedi. \"Duru öğrenmek istiyor. Nasıl toplanır?\""
+     },
+     {
+      "t": "p",
+      "s": "Yusuf bir an tereddüt etti. Sonra diz çöktü, kızının boyuna indi. Bir çay dalını tuttu."
+     },
+     {
+      "t": "p",
+      "s": "\"Bak,\" dedi yumuşak bir sesle. \"İki yaprak, bir tomurcuk. Sadece en tepedekileri. Ötekiler büyüsün diye bırakırsın.\""
+     },
+     {
+      "t": "p",
+      "s": "Duru minik parmaklarıyla iki yaprağı ve bir tomurcuğu kopardı. Babasına uzattı."
+     },
+     {
+      "t": "p",
+      "s": "Yusuf yaprakları avucuna aldı. Sonra kızına baktı. Sonra Zeynep'e. Ve birden, hiç beklenmedik bir şekilde, güldü."
+     },
+     {
+      "t": "p",
+      "s": "Kısa, çatlak, paslı bir gülüş. Uzun zamandır kullanılmamış bir kapının gıcırtısı gibi. Ama gerçek."
+     },
+     {
+      "t": "p",
+      "s": "Duru da güldü. Sesli değil, ama yüzünün tamamıyla. Ve Zeynep, yağmurun altında, ikisini izlerken boğazının düğümlendiğini hissetti."
+     },
+     {
+      "t": "p",
+      "s": "\"Bir yıldır gülmediğini söylediler bana,\" dedi Yusuf, hâlâ kızına bakarak. \"Nuriye Abla. Sen geldiğinden beri gülüyormuş.\""
+     },
+     {
+      "t": "p",
+      "s": "\"Sen de bir yıldır gülmüyormuşsun,\" dedi Zeynep. \"Onu da Nuriye Abla söyledi.\""
+     },
+     {
+      "t": "p",
+      "s": "Yusuf ona döndü. Yağmur saçlarından yüzüne süzülüyordu. O koyu gözlerde, sisli yoldaki o ilk geceden beri ilk defa, bir şey kıpırdadı."
+     },
+     {
+      "t": "p",
+      "s": "\"Teşekkür ederim,\" dedi alçak sesle. \"Kızımı geri getirdiğin için.\""
+     },
+     {
+      "t": "p",
+      "s": "Zeynep bir şey diyemedi. Sadece başını salladı."
+     },
+     {
+      "t": "brk"
+     },
+     {
+      "t": "p",
+      "s": "O gece, Zeynep günlüğün son sayfalarını tekrar okudu. Daha dikkatle."
+     },
+     {
+      "t": "p",
+      "s": "*Bugün fabrikanın muhasebesine baktım. Yusuf'un isteğiyle, sadece yardım etmek için. Rakamlar tutmuyor. Her ay büyük bir para bir yere gidiyor. Ve paketlerde başka bir şey var. Bizim çayımız değil. Ucuz, yurt dışından gelme, ilaçlı bir çay. Altunsoy etiketiyle satılıyor.*"
+     },
+     {
+      "t": "p",
+      "s": "*Kim yapıyor, biliyorum. İmzalar onun.*"
+     },
+     {
+      "t": "p",
+      "s": "*Ona sordum. Güldü. \"Yusuf'a söylersen,\" dedi, \"kim inanır? Sen mi, ben mi? Ben onun yirmi yıllık kardeşiyim. Sen dün gelen bir kızsın.\"*"
+     },
+     {
+      "t": "p",
+      "s": "*Haklı. Yusuf ona benden çok güveniyor.*"
+     },
+     {
+      "t": "p",
+      "s": "Bir sonraki sayfa:"
+     },
+     {
+      "t": "p",
+      "s": "*Dün gece onu arabamın yanında gördüm. Garajda. Gece yarısı. Beni görünce gülümsedi, el salladı. \"Lastiğine bakıyordum,\" dedi. \"Havası inmiş gibiydi.\"*"
+     },
+     {
+      "t": "p",
+      "s": "*Lastiğimin havası inmemişti.*"
+     },
+     {
+      "t": "p",
+      "s": "Zeynep'in elleri buz kesti."
+     },
+     {
+      "t": "p",
+      "s": "Meryem bu satırları yazdıktan üç gün sonra, yayla yolunda, frenleri tutmayan arabasıyla dereye yuvarlanmıştı."
+     },
+     {
+      "t": "p",
+      "s": "Defteri kapattı. Kalbi göğsünü dövüyordu. Yusuf'a söylemeliydi. Hemen. Şimdi."
+     },
+     {
+      "t": "p",
+      "s": "Kalktı. Kapıyı açtı. Koridor karanlıktı. Ama koridorun öbür ucunda, Meryem'in odasının hemen yanındaki çalışma odasında bir ışık yanıyordu. Kapı aralıktı."
+     },
+     {
+      "t": "p",
+      "s": "Yavaşça yaklaştı. Aralıktan içeri baktı."
+     },
+     {
+      "t": "p",
+      "s": "Kenan. Masanın başındaydı. Çekmeceleri tek tek açıyor, içlerini karıştırıyor, kağıtları savuruyordu. Hızlı, telaşlı, sessiz."
+     },
+     {
+      "t": "p",
+      "s": "Bir şey arıyordu."
+     },
+     {
+      "t": "p",
+      "s": "Zeynep geri çekilmek istedi. Ayağının altında eski tahta bir döşeme gıcırdadı."
+     },
+     {
+      "t": "p",
+      "s": "Kenan donup kaldı. Yavaşça başını kaldırdı ve kapının aralığından, karanlıkta, doğrudan Zeynep'in gözlerine baktı."
+     },
+     {
+      "t": "p",
+      "s": "Sonra gülümsedi. O geniş, parlak, her şeyi aydınlatan gülümseme."
+     },
+     {
+      "t": "p",
+      "s": "\"Zeynep,\" dedi yumuşak bir sesle. \"Bu saatte uyumuyor musun?\" Bir adım attı. \"Yoksa sen de bir şey mi gördün? Tıpkı kardeşin gibi?\""
+     }
+    ]
+   },
+   {
+    "title": "Fırtına",
+    "body": [
+     {
+      "t": "p",
+      "s": "Zeynep'in bütün bedeni kaçmak istiyordu. Ama ayakları kıpırdamadı."
+     },
+     {
+      "t": "p",
+      "s": "\"Su içmeye kalktım,\" dedi. Sesi kendi kulağına bile tuhaf geldi. \"Işık görünce baktım.\""
+     },
+     {
+      "t": "p",
+      "s": "Kenan bir adım daha attı. Çalışma odasının kapısını tamamen açtı. Lambanın ışığı arkasında kaldığı için yüzü gölgedeydi."
+     },
+     {
+      "t": "p",
+      "s": "\"Yusuf bazı evrakları istedi,\" dedi rahat bir sesle. \"Yarın sabah toplantı var. Gece yarısı aklına gelir, bilirsin.\" Gülümsedi. \"Sen de yatmalısın. Duru erkenden uyanır.\""
+     },
+     {
+      "t": "p",
+      "s": "\"Tabii.\""
+     },
+     {
+      "t": "p",
+      "s": "Zeynep döndü. Koridor boyunca yürüdü. Her adımda, sırtında Kenan'ın bakışlarını hissetti. Odasına girdi, kapıyı kapattı, kilitledi. Sonra sırtını kapıya dayayıp, yere kaydı."
+     },
+     {
+      "t": "p",
+      "s": "Elleri titriyordu."
+     },
+     {
+      "t": "p",
+      "s": "Günlük, hâlâ yatağın üzerindeydi. Kalktı, aldı, Duru'nun oyuncak ayısının sırtındaki dikişe geri soktu. Ayıyı Duru'nun yanına, yorganın altına yerleştirdi."
+     },
+     {
+      "t": "p",
+      "s": "Sonra sabaha kadar, kapıya bakarak oturdu."
+     },
+     {
+      "t": "brk"
+     },
+     {
+      "t": "p",
+      "s": "Sabah, Yusuf'u fabrikanın ofisinde buldu."
+     },
+     {
+      "t": "p",
+      "s": "Kapıyı kapattı. Günlüğü masaya koydu."
+     },
+     {
+      "t": "p",
+      "s": "\"Bunu okuman gerekiyor.\""
+     },
+     {
+      "t": "p",
+      "s": "Yusuf deftere baktı. Kapağı tanıdı. Rengi soldu. \"Bu Meryem'in...\""
+     },
+     {
+      "t": "p",
+      "s": "\"Duru'nun ayısının içindeydi. Meryem saklamış.\" Zeynep yutkundu. \"Son sayfalarını oku Yusuf. Lütfen.\""
+     },
+     {
+      "t": "p",
+      "s": "Yusuf okudu."
+     },
+     {
+      "t": "p",
+      "s": "Zeynep onun yüzünü izledi. İlk sayfalarda yumuşayan, Meryem'in onu nasıl sevdiğini okurken titreyen yüzünü. Sonra son sayfalarda yavaş yavaş kararan, taşlaşan yüzünü."
+     },
+     {
+      "t": "p",
+      "s": "Defteri kapattığında, uzun süre hiçbir şey söylemedi."
+     },
+     {
+      "t": "p",
+      "s": "\"Hayır,\" dedi sonunda. Sesi boğuktu. \"Kenan değil. Olamaz.\""
+     },
+     {
+      "t": "p",
+      "s": "\"Yusuf...\""
+     },
+     {
+      "t": "p",
+      "s": "\"Biz aynı evde büyüdük Zeynep! Babası öldüğünde benim babam ona sahip çıktı. Aynı okula gittik, aynı askerlikten döndük. Babam öldüğünde o yanımdaydı. Meryem öldüğünde...\" Sesi kırıldı. \"Meryem öldüğünde cenazeyi o kaldırdı. Ben ayakta duramıyordum.\""
+     },
+     {
+      "t": "p",
+      "s": "\"Biliyorum.\""
+     },
+     {
+      "t": "p",
+      "s": "\"Hayır, bilmiyorsun! Sen bir hafta önce geldin!\" Yusuf ayağa kalktı, pencereye yürüdü. Omuzları sarsılıyordu. \"Sen... sen dün gelen bir kızsın.\""
+     },
+     {
+      "t": "p",
+      "s": "Zeynep'in kalbi bir an durdu."
+     },
+     {
+      "t": "p",
+      "s": "\"Meryem'e de aynısını söylemiş,\" dedi alçak sesle. \"Günlükte yazıyor. *Kim inanır? Ben onun yirmi yıllık kardeşiyim, sen dün gelen bir kızsın.*\""
+     },
+     {
+      "t": "p",
+      "s": "Yusuf yavaşça döndü. Yüzünde bir şey kırılmıştı."
+     },
+     {
+      "t": "p",
+      "s": "\"Şu an tam olarak onun söylediği şeyi söylüyorsun Yusuf. Tıpkı onun tahmin ettiği gibi.\""
+     },
+     {
+      "t": "p",
+      "s": "Odada uzun bir sessizlik oldu. Dışarıda, fabrikanın makineleri uğulduyordu."
+     },
+     {
+      "t": "p",
+      "s": "Yusuf masaya döndü. Günlüğü tekrar aldı. Son sayfayı açtı. *Lastiğimin havası inmemişti.* Bu satırı okurken parmakları kağıdın üzerinde titredi."
+     },
+     {
+      "t": "p",
+      "s": "\"Kaza raporu,\" dedi boğuk bir sesle. \"Polis frenlerin aşınmış olduğunu söyledi. Eski araba, dedi. Raporu Kenan almıştı. Ben... ben okuyamamıştım bile.\""
+     },
+     {
+      "t": "p",
+      "s": "Telefonuna uzandı. Bir numara çevirdi."
+     },
+     {
+      "t": "p",
+      "s": "\"Komiserim. Yusuf Altunsoy. Bir yıl önceki kaza dosyası, Meryem Altunsoy. Aracı bir daha incelemenizi istiyorum. Evet. Hemen.\""
+     },
+     {
+      "t": "brk"
+     },
+     {
+      "t": "p",
+      "s": "O akşam, yaylaya bir fırtına geldi."
+     },
+     {
+      "t": "p",
+      "s": "Rüzgar ladinleri büküyor, yağmur camları dövüyor, ara ara şimşekler bütün vadiyi bembeyaz aydınlatıyordu. Elektrikler saat dokuzda gitti. Nuriye Abla mumları yaktı."
+     },
+     {
+      "t": "p",
+      "s": "Zeynep, Duru'yu yatırmaya gittiğinde yatak boştu."
+     },
+     {
+      "t": "p",
+      "s": "Oyuncak ayı da yoktu."
+     },
+     {
+      "t": "p",
+      "s": "\"Duru?\" Banyoya baktı. Dolaba. Yatağın altına. \"Duru!\""
+     },
+     {
+      "t": "p",
+      "s": "Koşarak aşağı indi. Salonda Hayriye Hanım ve Nuriye Abla mumların başındaydı. Kimse görmemişti. Bahçe kapısı açıktı, rüzgarda çarpıyordu."
+     },
+     {
+      "t": "p",
+      "s": "Yusuf'u aradı. Fabrikadan, nefes nefese, on dakikada geldi. Arkasından köyün erkekleri, fenerlerle, yağmurluklarla."
+     },
+     {
+      "t": "p",
+      "s": "\"Ormana doğru mu gitti, dereye doğru mu?\" diye bağırdı biri."
+     },
+     {
+      "t": "p",
+      "s": "\"Bilmiyorum!\""
+     },
+     {
+      "t": "p",
+      "s": "Bir şimşek çaktı. Ve o bembeyaz anda, Zeynep bahçe kapısının dibinde, çamurun içinde bir şey gördü. Küçük bir ayak izi. Yanında başka bir iz daha. Büyük. Bir erkek botu."
+     },
+     {
+      "t": "p",
+      "s": "İkisi birlikte, yamaçtan aşağı, eski köprüye giden patikaya doğru gidiyordu."
+     },
+     {
+      "t": "p",
+      "s": "Meryem'in arabasının yuvarlandığı köprü."
+     },
+     {
+      "t": "p",
+      "s": "Zeynep kimseyi beklemedi. Koştu."
+     },
+     {
+      "t": "brk"
+     },
+     {
+      "t": "p",
+      "s": "Patika kaygandı, karanlıktı. İki kez düştü, dizleri kanadı. Elindeki fener, yağmurun içinde titrek bir ışık halkası çiziyordu. Derenin sesi, fırtınanın uğultusunu bile bastırıyordu."
+     },
+     {
+      "t": "p",
+      "s": "Köprüye vardığında onu gördü."
+     },
+     {
+      "t": "p",
+      "s": "Duru, köprünün ortasında, korkuluğun dibine çömelmişti. Kırmızı yağmurluğu sırılsıklamdı, oyuncak ayısını göğsüne bastırmıştı. Aşağıya, köpüren dereye bakıyordu."
+     },
+     {
+      "t": "p",
+      "s": "\"Duru!\""
+     },
+     {
+      "t": "p",
+      "s": "Küçük kız başını kaldırdı. Zeynep koşup onu kucağına aldı, göğsüne bastırdı. Duru buz gibiydi, titriyordu."
+     },
+     {
+      "t": "p",
+      "s": "\"Ne arıyorsun burada, canım? Ne arıyorsun?\""
+     },
+     {
+      "t": "p",
+      "s": "Duru, Zeynep'in kulağına yaklaştı. Ve fırtınanın ortasında, bir yıldır sakladığı bir şeyi fısıldadı. Bir çocuk sesiyle. Kısık, ama net."
+     },
+     {
+      "t": "p",
+      "s": "\"Annem burada düştü. Ben gördüm. O gece. Kenan amca annemin arabasının altına girdi. Bir şey kesti. Ben pencereden gördüm. Kimseye söylemedim. Çünkü Kenan amca, söylersem babamın da arabasına aynısını yaparım, dedi.\""
+     },
+     {
+      "t": "p",
+      "s": "Zeynep'in kanı dondu."
+     },
+     {
+      "t": "p",
+      "s": "Bir yıl. Altı yaşında bir çocuk, bu sırrı bir yıl boyunca tek başına taşımıştı. Ve bu yüzden susmuştu. Bu yüzden tek kelime etmemişti."
+     },
+     {
+      "t": "p",
+      "s": "\"Artık söyledin,\" diye fısıldadı, Duru'yu daha sıkı sararak. \"Artık söyledin canım. Kimse babana bir şey yapamayacak. Söz veriyorum.\""
+     },
+     {
+      "t": "p",
+      "s": "Bir şimşek çaktı."
+     },
+     {
+      "t": "p",
+      "s": "Ve o bembeyaz ışıkta, Zeynep köprünün başında, yağmurun içinde, kıpırdamadan duran bir siluet gördü."
+     },
+     {
+      "t": "p",
+      "s": "Pahalı bir mont. Düzgün taranmış, yağmurdan yapışmış saçlar. İnce bir bıyık."
+     },
+     {
+      "t": "p",
+      "s": "Kenan, köprüye doğru yavaş yavaş yürüyordu. Ve bu sefer gülümsemiyordu."
      }
     ]
    }

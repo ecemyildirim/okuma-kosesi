@@ -267,13 +267,8 @@ const book = id => LIB.find(b => b.id === id);
 const prog = id => (progress[id] = progress[id] || { ch: 0, done: [], pos: 0 });
 
 function coverHTML(b) {
-  return `<div class="cover" aria-hidden="true">
-    <svg viewBox="0 0 200 300" preserveAspectRatio="xMidYMax slice">
-      <g fill="#fff" opacity=".85">${b.snow}</g>
-      <path d="M0 230 L20 200 L28 212 L45 175 L60 205 L72 190 L90 160 L108 196 L120 182 L140 150 L158 192 L170 178 L188 200 L200 188 L200 300 L0 300Z" fill="#0f1621" opacity=".85"/>
-      <path d="M0 255 L25 225 L50 250 L80 215 L110 248 L140 222 L170 252 L200 230 L200 300 L0 300Z" fill="#0a0f17"/>
-      <rect x="132" y="236" width="22" height="16" fill="#0a0f17"/><rect x="137" y="240" width="5" height="5" fill="#f2c46b"/><rect x="145" y="240" width="5" height="5" fill="#f2c46b"/>
-    </svg>
+  return `<div class="cover" aria-hidden="true" style="background:${b.bg}">
+    <svg viewBox="0 0 200 300" preserveAspectRatio="xMidYMax slice">${b.art}</svg>
     <div class="ct"><small>${esc(b.kicker)}</small>${esc(b.title)}</div>
   </div>`;
 }
